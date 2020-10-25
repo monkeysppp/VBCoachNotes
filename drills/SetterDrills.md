@@ -3,7 +3,7 @@
 # Setter Drills
 
 ### Chinese Setter Warmup
-`Volleyball England "Setting Session" 2016 https://vimeo.com/170591134` used by China ladies team at London 2012
+`Volleyball England "Setting Session" 2016 https://vimeo.com/170591134, used by China ladies team at London 2012`
 
 _movement, setting_
 
