@@ -1,7 +1,7 @@
 # My Volleyball Notes
 
 - [Drills](./drills/Drills.md)
-  - [Setters](./drills/SetterDrills.md)
+  - [Setters](./drills/SetterDrills/SetterDrills.md)
   - [Rotations](./drills/RotationDrills/RotationDrills.md)
   - [Service](./drills/ServiceDrills/ServiceDrills.md)
   - [Serve Receive](./drills/ServeReceiveDrills/ServeReceiveDrills.md)
