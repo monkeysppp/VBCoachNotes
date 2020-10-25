@@ -2,7 +2,7 @@
 
 # Drills
 
-- [Setter Drills](./SetterDrills.md)
+- [Setter Drills](./SetterDrills/SetterDrills.md)
 
 ## Image key
 
