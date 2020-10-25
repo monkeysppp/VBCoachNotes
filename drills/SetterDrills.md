@@ -19,6 +19,7 @@ The ball stays in flight throughout the drill with 3 setters working
 Adaptations can include S3 running in to cover tip/attack from S4 (with S4 then playing to S1)
 
 <p style="clear: both;"></p>
+
 ---
 
 ### Do As You're Told
@@ -35,6 +36,7 @@ _control, variation_
 Adaptations can be adding targets for the hitters, or adding blockers
 
 <p style="clear: both;"></p>
+
 ---
 
 ### Everybody Sets
@@ -48,6 +50,7 @@ _control, confidence, skills_
 - Each person moves on one place
 
 <p style="clear: both;"></p>
+
 ---
 
 ### Run Around
@@ -64,6 +67,7 @@ _stamina, control under pressure_
 Adaptations can be to push the setter to awkward positions.
 
 <p style="clear: both;"></p>
+
 ---
 
 ### Stacking
@@ -77,4 +81,5 @@ _rotations, movement_
 - 4 hitter works on pass, swing out and hit.
 
 <p style="clear: both;"></p>
+
 ---
