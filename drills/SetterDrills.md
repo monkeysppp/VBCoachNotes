@@ -7,7 +7,7 @@
 
 _movement, setting_
 
-<img alt="Chinese Setter Warmup" width="300" src="./images/Chinese-Setter-Warmup.png" style="float: left; margin: 0px 30px 20px 0px;" />
+<img alt="Chinese Setter Warmup" width="300" src="./images/Chinese-Setter-Warmup.png" align="left" style="margin: 0px 30px 20px 0px;" />
 
 The ball stays in flight throughout the drill with 3 setters working
 
@@ -24,7 +24,7 @@ Adaptations can include S3 running in to cover tip/attack from S4 (with S4 then 
 
 _control, variation_
 
-<img alt="Do as you're told" width="300" src="./images/Do-As-Youre-Told.png" style="float: left; margin: 0px 30px 20px 0px;" />
+<img alt="Do as you're told" width="300" src="./images/Do-As-Youre-Told.png" align="left" style="margin: 0px 30px 20px 0px;" />
 
 - Setter has 3 front hitting lanes available
 - F feeds and calls which lane to set to
@@ -39,7 +39,7 @@ Adaptations can be adding targets for the hitters, or adding blockers
 
 _control, confidence, skills_
 
-<img alt="Everybody sets" width="300" src="./images/Everybody-Sets.png" style="float: left; margin: 0px 30px 20px 0px;" />
+<img alt="Everybody sets" width="300" src="./images/Everybody-Sets.png" align="left" style="margin: 0px 30px 20px 0px;" />
 
 - F feeds to S, sets to H, hits to target
 - B blocks cross and _leaves the line_ for the hitter
@@ -52,7 +52,7 @@ _control, confidence, skills_
 
 _stamina, control under pressure_
 
-<img alt="Run around" width="300" src="./images/Run-Around.png" style="float: left; margin: 0px 30px 20px 0px;" />
+<img alt="Run around" width="300" src="./images/Run-Around.png" align="left" style="margin: 0px 30px 20px 0px;" />
 
 - F feeds to setter
 - Setter alternates setting to 2 and 4
@@ -66,7 +66,7 @@ Adaptations can be to push the setter to awkward positions.
 
 _rotations, movement_
 
-<img alt="Stacking" width="300" src="./images/Stacking.png" style="float: left; margin: 0px 30px 20px 0px;" />
+<img alt="Stacking" width="300" src="./images/Stacking.png" align="left" style="margin: 0px 30px 20px 0px;" />
 
 - Simulate S/R when stacking
 - Setter and middle work on transition
