@@ -1,8 +1,9 @@
 # My Volleyball Notes
 
 - [Drills](./drills/Drills.md)
-- Positions
-  - [Setters](./Setters.md)
+  - [Setters](./drills/SetterDrills.md)
+- [Positions](./positions/Positions.md)
+  - [Setters](./positions/Setters.md)
 - [Miscellaneous](./Miscellaneous.md)
 
 ---
