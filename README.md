@@ -21,4 +21,5 @@
 
 ### Reference
 
-Anything in `codeblock` is an attribution to the source
+- Attribution to a source are given in _italics_
+- Anything in `codeblock` is a tag/theme for an activity

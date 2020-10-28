@@ -3,9 +3,9 @@
 # Warmup Drills
 
 ### Double Ball
-`Bertrand Olie - Volleyball England article https://www.volleyballengland.org/news/article/5503/the-coaching-corner`
+_Bertrand Olie - Volleyball England article https://www.volleyballengland.org/news/article/5503/the-coaching-corner_
 
-_thinking_
+`thinking`
 
 <img alt="Play one ball and keep the other one at hand" width="300" src="./images/Double-Ball.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -18,9 +18,9 @@ _thinking_
 ---
 
 ### Cross Over
-`Saffi Burns, Solent training`
+_Saffi Burns, Solent training_
 
-_thinking_
+`thinking`
 
 <img alt="Pass and Cross" width="300" src="./images/Cross-Over.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -35,9 +35,9 @@ This can take a while to understand the sequencing; when they do, turn the feed 
 ---
 
 ### Man Marking
-`Bertrand Olie - Volleyball England article https://www.volleyballengland.org/news/article/5503/the-coaching-corner`
+_Bertrand Olie - Volleyball England article https://www.volleyballengland.org/news/article/5503/the-coaching-corner_
 
-_thinking, movement_
+`thinking, movement`
 
 <img alt="Match your partner" width="300" src="./images/Man-Marking.png" align="left" style="margin: 0px 30px 0px 0px;" />
 

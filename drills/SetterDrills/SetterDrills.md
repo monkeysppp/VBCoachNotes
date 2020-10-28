@@ -4,7 +4,7 @@
 
 ### Do As You're Told
 
-_control, variation_
+`control, variation`
 
 <img alt="Do as you're told" width="300" src="./images/Do-As-Youre-Told.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -21,7 +21,7 @@ Adaptations can be adding targets for the hitters, or adding blockers
 
 ### Everybody Sets
 
-_control, confidence, skills_
+`control, confidence, skills`
 
 <img alt="Everybody sets" width="300" src="./images/Everybody-Sets.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -35,7 +35,7 @@ _control, confidence, skills_
 
 ### Everybody Sets Well`
 
-_control, confidence, skills_
+`control, confidence, skills`
 
 <img alt="Everybody sets well" width="300" src="./images/Everybody-Sets-Well.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -51,7 +51,7 @@ Hitters and setters learn what it's like doing each other's jobs
 
 ### Setting triangle
 
-_movement, skills_
+`movement, skills`
 
 <img alt="Some setting queue" width="300" src="./images/Setting-Triangle.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -66,7 +66,7 @@ _movement, skills_
 
 ### Hoops
 
-_control, skills_
+`control, skills`
 
 <img alt="Hoop volleys" width="300" src="./images/Hoops.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -81,7 +81,7 @@ _control, skills_
 
 ### Volley Chase
 
-_control, skills_
+`control, skills`
 
 <img alt="volley and swap sides" width="300" src="./images/Volley-Chase.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -96,7 +96,7 @@ Adaptations can be 2 sets in an X formation crossing each other's paths.
 
 ### Front Court Chain
 
-_movement, defence_
+`movement, defence`
 
 <img alt="Chain of front setter roles" width="300" src="./images/Front-Drill-Chain.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -113,7 +113,7 @@ _movement, defence_
 
 ### Back Court Chain
 
-_movement, defence_
+`movement, defence`
 
 <img alt="Chain of back setter roles" width="300" src="./images/Back-Drill-Chain.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -133,7 +133,7 @@ _movement, defence_
 ### Run Around
 `Paul Westhead, level 2 coaching course`
 
-_stamina, control under pressure_
+`stamina, control under pressure`
 
 <img alt="Run around" width="300" src="./images/Run-Around.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -149,7 +149,7 @@ Adaptations can be to push the setter to awkward positions.
 
 ### Stacking
 
-_rotations, movement_
+`rotations, movement`
 
 <img alt="Stacking" width="300" src="./images/Stacking.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -163,7 +163,7 @@ _rotations, movement_
 
 ### Disguise
 
-_skills, disguise_
+`skills, disguise`
 
 <img alt="practice disguise and consistency" width="300" src="./images/Disguise.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -177,7 +177,7 @@ _skills, disguise_
 
 ### Box Drill
 
-_skills, body shape_
+`skills, body shape`
 
 <img alt="volleying with players in a square" width="300" src="./images/Box-Drill.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -193,7 +193,7 @@ Adaptations can be: one ball is passed; change direction
 
 ### Track Your Hitters
 
-_tactics_
+`tactics`
 
 <img alt="hitting queues with limited hits" width="300" src="./images/Track-Your-Hitters.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -208,7 +208,7 @@ _tactics_
 
 ### Gym Ball
 
-_skills_
+`skills`
 
 <img alt="Set to a big Gym Ball" width="300" src="./images/Gym-Ball.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
@@ -223,7 +223,7 @@ _skills_
 ### Chinese Setter Warmup
 `Volleyball England "Setting Session" 2016 https://vimeo.com/170591134, used by China ladies team at London 2012`
 
-_movement, setting_
+`movement, setting`
 
 <img alt="Chinese Setter Warmup" width="300" src="./images/Chinese-Setter-Warmup.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
