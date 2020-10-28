@@ -2,6 +2,7 @@
 
 # Drills
 
+- [WarmupDrills](./WarmupDrills/WarmupDrills.md)
 - [Setter Drills](./SetterDrills/SetterDrills.md)
 - [Rotations](./RotationDrills/RotationDrills.md)
 - [Service](./ServiceDrills/ServiceDrills.md)
