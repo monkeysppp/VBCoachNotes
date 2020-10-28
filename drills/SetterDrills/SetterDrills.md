@@ -131,7 +131,7 @@ Adaptations can be 2 sets in an X formation crossing each other's paths.
 ---
 
 ### Run Around
-`Paul Westhead, level 2 coaching course`
+_Paul Westhead, level 2 coaching course_
 
 `stamina, control under pressure`
 
@@ -221,7 +221,7 @@ Adaptations can be: one ball is passed; change direction
 ---
 
 ### Chinese Setter Warmup
-`Volleyball England "Setting Session" 2016 https://vimeo.com/170591134, used by China ladies team at London 2012`
+_Volleyball England "Setting Session" 2016 https://vimeo.com/170591134, used by China ladies team at London 2012_
 
 `movement, setting`
 
