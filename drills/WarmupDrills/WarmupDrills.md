@@ -3,7 +3,7 @@
 # Warmup Drills
 
 ### Double Ball
-_Bertrand Olie - Volleyball England article https://www.volleyballengland.org/news/article/5503/the-coaching-corner_
+_Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/news/article/5503/the-coaching-corner](https://www.volleyballengland.org/news/article/5503/the-coaching-corner)_
 
 `thinking`
 
@@ -35,7 +35,7 @@ This can take a while to understand the sequencing; when they do, turn the feed 
 ---
 
 ### Man Marking
-_Bertrand Olie - Volleyball England article https://www.volleyballengland.org/news/article/5503/the-coaching-corner_
+_Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/news/article/5503/the-coaching-corner](https://www.volleyballengland.org/news/article/5503/the-coaching-corner)_
 
 `thinking, movement`
 

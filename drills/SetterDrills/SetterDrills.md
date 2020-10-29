@@ -221,7 +221,7 @@ Adaptations can be: one ball is passed; change direction
 ---
 
 ### Chinese Setter Warmup
-_Volleyball England "Setting Session" 2016 https://vimeo.com/170591134, used by China ladies team at London 2012_
+_Volleyball England "Setting Session" 2016 [https://vimeo.com/170591134](https://vimeo.com/170591134), used by China ladies team at London 2012_
 
 `movement, setting`
 
