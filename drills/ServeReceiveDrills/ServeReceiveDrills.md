@@ -5,7 +5,7 @@
 Things to remember for every drill:
 
 1. Defence is a team sport; we pass as a unit, we don't abandon a passer.
-2. Ultimately, the ball only knows the contact angle in the 0.05s of contact (_The ball knows angles - Carl McGown (https://www.teamusa.org/USA-Volleyball/Features/2011/March/02/STOP-Teaching-Passing)_)
+2. Ultimately, the ball only knows the contact angle in the 0.05s of contact (_The ball knows angles - Carl McGown https://www.teamusa.org/USA-Volleyball/Features/2011/March/02/STOP-Teaching-Passing_)
 
 ### Who am I?
 
