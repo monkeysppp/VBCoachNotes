@@ -57,7 +57,7 @@ Adaptations can be that the coach or the setter rates the pass in terms of how m
 
 `allways ready`
 
-<img alt="At a moment's notice, a team set up receive and build an attack" width="300" src="./images/panic-Button.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="At a moment's notice, a team set up receive and build an attack" width="300" src="./images/Panic-Button.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
 - At any point during a training session, the coach can hit the panic button along with calling out a rotation.  The working team must set up their receive in that rotation
 - Everyone else goes to the serving line and serve in turn.
