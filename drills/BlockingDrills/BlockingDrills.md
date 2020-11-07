@@ -44,9 +44,10 @@
 <ul style="margin-left: 300px">
   <li>Hitters on platforms feed an attack ball into a block</li>
   <li>The blocker goes back and forth between the feeders, blocking until they are exhausted
-  <ul>
-    <li>Caution that loose balls are clear of the blocker</li>
-  </ul>
+    <ul>
+      <li>Caution that loose balls are clear of the blocker</li>
+    </ul>
+  </li>
 </ul>
 
 <br clear="left"/>
