@@ -3,15 +3,17 @@
 # Warmup Drills
 
 ### Double Ball
-_Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/news/article/5503/the-coaching-corner](https://www.volleyballengland.org/news/article/5503/the-coaching-corner)_
+_Bertrand Olie   <li>Volleyball England article [https://www.volleyballengland.org/news/article/5503/the-coaching-corner](https://www.volleyballengland.org/news/article/5503/the-coaching-corner)_</li>
 
 `thinking`
 
 <img alt="Play one ball and keep the other one at hand" width="300" src="./images/Double-Ball.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
-- The pair have a ball that one of the pair is holding
-- F feeds a ball and the pair have 3 touches to build an attack
-- The players have to throw the "holding" ball between them before they can play the ball in flight
+<ul style="margin-left: 300px">
+  <li>The pair have a ball that one of the pair is holding</li>
+  <li>F feeds a ball and the pair have 3 touches to build an attack</li>
+  <li>The players have to throw the "holding" ball between them before they can play the ball in flight</li>
+</ul>
 
 <br clear="left"/>
 
@@ -35,15 +37,17 @@ This can take a while to understand the sequencing; when they do, turn the feed 
 ---
 
 ### Man Marking
-_Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/news/article/5503/the-coaching-corner](https://www.volleyballengland.org/news/article/5503/the-coaching-corner)_
+_Bertrand Olie   <li>Volleyball England article [https://www.volleyballengland.org/news/article/5503/the-coaching-corner](https://www.volleyballengland.org/news/article/5503/the-coaching-corner)_</li>
 
 `thinking, movement`
 
 <img alt="Match your partner" width="300" src="./images/Man-Marking.png" align="left" style="margin: 0px 30px 0px 0px;" />
 
-- Use a small part of the court and play 3v3
-- Each player has a "mirror" on the other team
-- When a player attacks, their mirror has to pass.  The ball may bounce once before that pass
+<ul style="margin-left: 300px">
+  <li>Use a small part of the court and play 3v3</li>
+  <li>Each player has a "mirror" on the other team</li>
+  <li>When a player attacks, their mirror has to pass.  The ball may bounce once before that pass</li>
+</ul>
 
 <br clear="left"/>
 
