@@ -103,6 +103,7 @@ _Paul Westhead, level 2 coaching course_
     <ul>
       <li>If the block is too weak, replace with a board</li>
     </ul>
+  </li>
   <li>The passers and hitter have to recycle the ball to the setter, who sets to the 4 hitter again</li>
   <li>The team continue to recycle off the block until the ball is dead, then they start again off a feed to the passers</li>
 </ul>
