@@ -33,6 +33,7 @@ _Tim Nash, Southampton VC Training_
   <li>The passer passes to the centre of court and their partner comes in and sets to the cross-court wing</li>
   <li>The hitter rolls a shot across court</li>
   <li>The passers replace the hitters</li>
+  <li>Cheeck that the players adapt to the ball they are playing: this is out of system, so the players should maximize chance of success and putting pressure on the opposition, not the high risk balls</li>
 </ul>
 
 <br clear="left"/>
@@ -47,7 +48,8 @@ _Tim Nash, Southampton VC Training_
 
 <ul style="margin-left: 300px">
   <li>The feeder slaps the ball and a pair of players run under the net to get the ball</li>
-  <li>The pair get 3 touches to build an attack</li>
+  <li>The pair get three touches to build an attack</li>
+  <li>Check that they maintain discipline on the attack and they work for their team-mates</li>
 </ul>
 
 <br clear="left"/>
@@ -61,9 +63,10 @@ _Tim Nash, Southampton VC Training_
 <img alt="Move in for directions, followed by a pass" width="300" src="./images/Cross-Move-And-Pass.png" align="left" style="margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
-  <li>Place 4 cones in a cross, with a passer in the middle</li>
-  <li>The passer has to move to each cone and back to the centre in turn</li>
+  <li>Place four cones in a cross, with a passer in the middle</li>
+  <li>The passer has to move to each cone and back to the centre in turn, staying low at all times</li>
   <li>When the passer returns to the middle a feeder feeds them a ball to pass</li>
+  <li>Are they balanced in all four directions</li>
 </ul>
 
 <br clear="left"/>
@@ -73,7 +76,8 @@ Adaptations can involve having the cones in a diagonal cross
 ---
 
 ### Double Ball
-_Bertrand Olie   <li>Volleyball England article [https://www.volleyballengland.org/news/article/5503/the-coaching-corner](https://www.volleyballengland.org/news/article/5503/the-coaching-corner)_</li>
+
+_Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/news/article/5503/the-coaching-corner](https://www.volleyballengland.org/news/article/5503/the-coaching-corner)_
 
 `thinking`
 
@@ -83,6 +87,7 @@ _Bertrand Olie   <li>Volleyball England article [https://www.volleyballengland.o
   <li>The pair have a ball that one of the pair is holding</li>
   <li>F feeds a ball and the pair have 3 touches to build an attack</li>
   <li>The players have to throw the "holding" ball between them before they can play the ball in flight</li>
+  <li>How much do they prepare for their next job</li>
 </ul>
 
 <br clear="left"/>
@@ -119,6 +124,18 @@ _Bertrand Olie   <li>Volleyball England article [https://www.volleyballengland.o
 <br clear="left"/>
 
 ---
+
+### Golden Player
+
+_Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/news/article/5503/the-coaching-corner](https://www.volleyballengland.org/news/article/5503/the-coaching-corner)_
+
+`pressue`
+
+<ul>
+  <li>Play a simple match of 3v3 or 4v4</li>
+  <li>1 player gets +5 points for a point/kill: do they think about how to maximise points, both as a team and as the golden player?</li>
+  <li>Next, the "golden player" gets +5 for a kill and -3 for an error: do they adjust the risk of their attack?</li>
+</ul>
 
 ### Hitter-Resilience
 
