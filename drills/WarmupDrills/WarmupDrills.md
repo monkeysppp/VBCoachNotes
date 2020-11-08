@@ -54,3 +54,26 @@ _Bertrand Olie   <li>Volleyball England article [https://www.volleyballengland.o
 Adaptations can be adding targets for the hitters, or adding blockers
 
 ---
+
+### Chinese Setter Warmup
+
+_Volleyball England "Setting Session" 2016 [https://vimeo.com/170591134](https://vimeo.com/170591134), used by China ladies team at London 2012_
+
+`movement, setting`
+
+<img alt="Chinese Setter Warmup" width="300" src="./images/Chinese-Setter-Warmup.png" align="left" style="margin: 0px 30px 0px 0px;" />
+
+The ball stays in flight throughout the drill with 3 setters working (note that the S<sub>#</sub> markers on the diagram are positions, not players). One of the setters stays at S<sub>4</sub> and the other two setters work around the positions S<sub>1</sub> to S<sub>3</sub>.
+
+<ul style="margin-left: 300px">
+  <li>S<sub>1</sub> starts by feeding to S<sub>2</sub>, then runs to S<sub>3</sub></li>
+  <li>S<sub>2</sub> back-sets to S<sub>3</sub>, then runs to S<sub>1</sub></li>
+  <li>S<sub>3</sub> sets to S<sub>4</sub>, then runs to S<sub>2</sub></li>
+  <li>S<sub>4</sub> plays to S<sub>1</sub></li>
+</ul>
+
+<br clear="left"/>
+
+Adaptations can include S<sub>3</sub> running in to cover a tip/attack from S<sub>4</sub> (with S<sub>4</sub> then playing to S<sub>1</sub>) before running back to become S<sub>2</sub>
+
+---

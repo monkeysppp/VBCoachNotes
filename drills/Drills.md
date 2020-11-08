@@ -12,7 +12,7 @@
 - [Serve Receive](./ServeReceiveDrills/ServeReceiveDrills.md)
 - [Service](./ServiceDrills/ServiceDrills.md)
 - [Setter Drills](./SetterDrills/SetterDrills.md)
-- [WarmupDrills](./WarmupDrills/WarmupDrills.md)
+- [Warmup Drills](./WarmupDrills/WarmupDrills.md)
 
 ## Image key
 
