@@ -7,7 +7,7 @@ _Tim Nash, Southampton VC Training_
 
 `block movement`
 
-<img alt="simple block movement pattern" width="300" src="./images/Block-Movement.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="simple block movement pattern" width="300" src="./images/Block-Movement.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>Start with two blockers apart</li>
@@ -25,7 +25,7 @@ _Tim Nash, Southampton VC Training_
 
 `out-of-system`
 
-<img alt="bump setting to the wing from centre of court" width="300" src="./images/Bump-Setting.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="bump setting to the wing from centre of court" width="300" src="./images/Bump-Setting.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>A feeder feeds some sort of ball to 2 passers</li>
@@ -43,7 +43,7 @@ _Tim Nash, Southampton VC Training_
 
 `teamwork`
 
-<img alt="Two players run under net and play out a rally" width="300" src="./images/Chase-And-Build.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Two players run under net and play out a rally" width="300" src="./images/Chase-And-Build.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder slaps the ball and a pair of players run under the net to get the ball</li>
@@ -59,7 +59,7 @@ _Tim Nash, Southampton VC Training_
 
 `balanced movement`
 
-<img alt="Move in for directions, followed by a pass" width="300" src="./images/Cross-Move-And-Pass.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Move in for directions, followed by a pass" width="300" src="./images/Cross-Move-And-Pass.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>Place four cones in a cross, with a passer in the middle</li>
@@ -80,7 +80,7 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 `thinking`
 
-<img alt="Play one ball and keep the other one at hand" width="300" src="./images/Double-Ball.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Play one ball and keep the other one at hand" width="300" src="./images/Double-Ball.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The pair have a ball that one of the pair is holding</li>
@@ -97,7 +97,7 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 `Saffi Mant, Solent training`
 
-<img alt="On a ball-slap, the passer backs off and takes an attack ball" width="300" src="./images/Drop-Back-And-Pass.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="On a ball-slap, the passer backs off and takes an attack ball" width="300" src="./images/Drop-Back-And-Pass.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder slaps a ball and the player has to back track fast</li>
@@ -113,7 +113,7 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 `work, discipline of technique`
 
-<img alt="player starts face down and has to get up and pass" width="300" src="./images/Get-Up-Pass.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="player starts face down and has to get up and pass" width="300" src="./images/Get-Up-Pass.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The passer starts face-down on the floor</li>
@@ -140,7 +140,7 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 `pressure, handling failure`
 
-<img alt="A hitter has to get " width="300" src="./images/Hitter-Resilience.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="A hitter has to get " width="300" src="./images/Hitter-Resilience.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>Feed an easy ball into the passers, who pass to a setter, who sets to the 4 hitter</li>
@@ -156,7 +156,7 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 `movement, technique`
 
-<img alt="A simple long pass and short pass" width="300" src="./images/Long-Short-Pass.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="A simple long pass and short pass" width="300" src="./images/Long-Short-Pass.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The long-feeder feeds a flat ball at the passer, and the passer passes back</li>
@@ -172,7 +172,7 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 `passing energy`
 
-<img alt="A simple chain of passing three types of ball" width="300" src="./images/Passing-Energy.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="A simple chain of passing three types of ball" width="300" src="./images/Passing-Energy.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The passers face a simple chain of 3 kinds of pass:

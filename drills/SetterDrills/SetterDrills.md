@@ -6,7 +6,7 @@
 
 `control, variation`
 
-<img alt="Do as you're told" width="300" src="./images/Do-As-Youre-Told.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Do as you're told" width="300" src="./images/Do-As-Youre-Told.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The setter has 3 front hitting lanes available</li>
@@ -25,7 +25,7 @@ Adaptations can be adding targets for the hitters, or adding blockers
 
 `control, confidence, skills`
 
-<img alt="Everybody sets" width="300" src="./images/Everybody-Sets.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Everybody sets" width="300" src="./images/Everybody-Sets.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder feeds to S, sets to H, hits to target</li>
@@ -41,7 +41,7 @@ Adaptations can be adding targets for the hitters, or adding blockers
 
 `control, confidence, skills`
 
-<img alt="Everybody sets well" width="300" src="./images/Everybody-Sets-Well.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Everybody sets well" width="300" src="./images/Everybody-Sets-Well.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder feeds to the setter, calling the attack</li>
@@ -59,7 +59,7 @@ Hitters and setters learn what it's like doing each other's jobs
 
 `movement, skills`
 
-<img alt="Some setting queue" width="300" src="./images/Setting-Triangle.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Some setting queue" width="300" src="./images/Setting-Triangle.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Feed a ball from mid court, the setter moves in to 2 1/2 and sets to T at 4</li>
@@ -76,7 +76,7 @@ Hitters and setters learn what it's like doing each other's jobs
 
 `control, skills`
 
-<img alt="Hoop volleys" width="300" src="./images/Hoops.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Hoop volleys" width="300" src="./images/Hoops.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Use the basketball hoops as a target</li>
@@ -93,7 +93,7 @@ Hitters and setters learn what it's like doing each other's jobs
 
 `control, skills`
 
-<img alt="volley and swap sides" width="300" src="./images/Volley-Chase.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="volley and swap sides" width="300" src="./images/Volley-Chase.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The ball goes back and forth from queue to queue</li>
@@ -110,7 +110,7 @@ Adaptations can be 2 sets in an X formation crossing each other's paths.
 
 `movement, defence`
 
-<img alt="Chain of front setter roles" width="300" src="./images/Front-Drill-Chain.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Chain of front setter roles" width="300" src="./images/Front-Drill-Chain.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The setter starts at 2 and block-touches a ball over the net</li>
@@ -129,7 +129,7 @@ Adaptations can be 2 sets in an X formation crossing each other's paths.
 
 `movement, defence`
 
-<img alt="Chain of back setter roles" width="300" src="./images/Back-Drill-Chain.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Chain of back setter roles" width="300" src="./images/Back-Drill-Chain.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The setter starts in base position for 1</li>
@@ -152,7 +152,7 @@ _Paul Westhead, level 2 coaching course_
 
 `stamina, control under pressure`
 
-<img alt="Run around" width="300" src="./images/Run-Around.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Run around" width="300" src="./images/Run-Around.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder feeds to setter</li>
@@ -170,7 +170,7 @@ Adaptations can be to push the setter to awkward positions.
 
 `rotations, movement`
 
-<img alt="Stacking" width="300" src="./images/Stacking.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Stacking" width="300" src="./images/Stacking.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Simulate S/R when stacking</li>
@@ -186,7 +186,7 @@ Adaptations can be to push the setter to awkward positions.
 
 `skills, disguise`
 
-<img alt="practice disguise and consistency" width="300" src="./images/Disguise.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="practice disguise and consistency" width="300" src="./images/Disguise.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder feeds the setter then calls "forward or back"</li>
@@ -202,7 +202,7 @@ Adaptations can be to push the setter to awkward positions.
 
 `skills, body shape`
 
-<img alt="volleying with players in a square" width="300" src="./images/Box-Drill.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="volleying with players in a square" width="300" src="./images/Box-Drill.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>4 queues in a square, 2 balls in play</li>
@@ -220,7 +220,7 @@ Adaptations can be: one ball is passed; change direction
 
 `tactics`
 
-<img alt="hitting queues with limited hits" width="300" src="./images/Track-Your-Hitters.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="hitting queues with limited hits" width="300" src="./images/Track-Your-Hitters.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Free ball to the libero, passes to S</li>
@@ -237,7 +237,7 @@ Adaptations can be: one ball is passed; change direction
 
 `skills`
 
-<img alt="Set to a big Gym Ball" width="300" src="./images/Gym-Ball.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Set to a big Gym Ball" width="300" src="./images/Gym-Ball.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Someone holds a big gym ball at 4 (or 2/middle lanes)</li>
@@ -255,7 +255,7 @@ _Volleyball England "Setting Session" 2016 [https://vimeo.com/170591134](https:/
 
 `movement, setting`
 
-<img alt="Chinese Setter Warmup" width="300" src="./images/Chinese-Setter-Warmup.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Chinese Setter Warmup" width="300" src="./images/Chinese-Setter-Warmup.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 The ball stays in flight throughout the drill with 3 setters working (note that the S<sub>#</sub> markers on the diagram are positions, not players). One of the setters stays at S<sub>4</sub> and the other two setters work around the positions S<sub>1</sub> to S<sub>3</sub>.
 

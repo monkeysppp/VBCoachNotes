@@ -6,7 +6,7 @@
 
 `movement, defence`
 
-<img alt="3 blockers v 3 hitters" width="300" src="./images/Block-Attack.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="3 blockers v 3 hitters" width="300" src="./images/Block-Attack.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Blockers on one side with multiple middle blockers queued up</li>
@@ -22,7 +22,7 @@
 
 `movement, technique`
 
-<img alt="Repeat cycle of swing blocking" width="300" src="./images/Block-Chain.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Repeat cycle of swing blocking" width="300" src="./images/Block-Chain.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Set up pairs of lines each side of the net</li>
@@ -39,7 +39,7 @@
 
 `movement, discipline under exhaustion`
 
-<img alt="Blocker going back and forth until exhausted" width="300" src="./images/Block-Killer.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Blocker going back and forth until exhausted" width="300" src="./images/Block-Killer.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Hitters on platforms feed an attack ball into a block</li>
@@ -58,7 +58,7 @@
 
 `technique, invasion of space`
 
-<img alt="Blocker penetrating through a hoop over the net" width="300" src="./images/Hoop-Penetration.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Blocker penetrating through a hoop over the net" width="300" src="./images/Hoop-Penetration.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Someone holds a gym hoop above the net, parallel to the plane of the net</li>
@@ -73,7 +73,7 @@
 
 `movement, position`
 
-<img alt="Swing blocking a feed at 4" width="300" src="./images/Middle-Man-4.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Swing blocking a feed at 4" width="300" src="./images/Middle-Man-4.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The blocker starts at 3</li>
@@ -95,7 +95,7 @@ _Paul Westhead, level 2 coaching course_
 
 `defence, team`
 
-<img alt="Repeat defence of a ball off the block" width="300" src="./images/Pachinko.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Repeat defence of a ball off the block" width="300" src="./images/Pachinko.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Feed a ball into the passers, who pass to the setter</li>

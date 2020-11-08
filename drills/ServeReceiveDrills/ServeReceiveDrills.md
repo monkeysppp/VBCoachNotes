@@ -11,7 +11,7 @@ Things to remember for every drill:
 
 `receive, reacton`
 
-<img alt="Passers have to guess the server's tactics" width="300" src="./images/Who-Am-I.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Passers have to guess the server's tactics" width="300" src="./images/Who-Am-I.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Split into groups.  Give the servers each a characteristic ("serve long", "5-to-5")</li>
@@ -28,7 +28,7 @@ _Paul Westhead, level 2 coaching course_
 
 `receive, pressue, stats`
 
-<img alt="Passing unit continuously face serve while the other side are running as well" width="300" src="./images/Chaos.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Passing unit continuously face serve while the other side are running as well" width="300" src="./images/Chaos.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Both sides run at once (multiple balls may be in flight)</li>
@@ -46,7 +46,7 @@ Adaptations can be that the coach or the setter rates the pass in terms of how m
 
 `rally, switching`
 
-<img alt="Face a serve receive and then a junk ball" width="300" src="./images/Junk-Ball.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Face a serve receive and then a junk ball" width="300" src="./images/Junk-Ball.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The receiving team start in a standard rotation</li>
@@ -63,7 +63,7 @@ Adaptations can be that the coach or the setter rates the pass in terms of how m
 
 `allways ready`
 
-<img alt="At a moment's notice, a team set up receive and build an attack" width="300" src="./images/Panic-Button.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="At a moment's notice, a team set up receive and build an attack" width="300" src="./images/Panic-Button.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>At any point during a training session, the coach can hit the panic button along with calling out a rotation.  The working team must set up their receive in that rotation</li>
@@ -79,7 +79,7 @@ Adaptations can be that the coach or the setter rates the pass in terms of how m
 
 `receive, pressure`
 
-<img alt="Continuous change of passers and servers in a loop" width="300" src="./images/Serve-Receive-Loop.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Continuous change of passers and servers in a loop" width="300" src="./images/Serve-Receive-Loop.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Both sides run at once (multiple balls may be in flight)</li>
@@ -96,7 +96,7 @@ Adaptations can be that the coach or the setter rates the pass in terms of how m
 
 `receive`
 
-<img alt="Receivers pass to a target sitting eating chocolate" width="300" src="./images/Jealous-Receive.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Receivers pass to a target sitting eating chocolate" width="300" src="./images/Jealous-Receive.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The server serves at three passers, who pass to a target at 2</li>
@@ -112,7 +112,7 @@ Adaptations can be that the coach or the setter rates the pass in terms of how m
 
 `receive, commitment`
 
-<img alt="One receiver covers the whole court" width="300" src="./images/Got-the-Whole-World.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="One receiver covers the whole court" width="300" src="./images/Got-the-Whole-World.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Five servers versus one passer.</li>

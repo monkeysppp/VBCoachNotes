@@ -8,7 +8,7 @@ _Paul Westhead, level 2 coaching course_
 
 `accuracy, decision`
 
-<img alt="Serve, sit where it landed, next server must avoid people sat down" width="300" src="./images/Follow-Me.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Serve, sit where it landed, next server must avoid people sat down" width="300" src="./images/Follow-Me.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Each player serves in turn</li>
@@ -26,7 +26,7 @@ Adaptations can be that if the server hits a player then everyone starts again
 
 `accuracy, decision`
 
-<img alt="Serving at gaps between players" width="300" src="./images/Miss-Me.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Serving at gaps between players" width="300" src="./images/Miss-Me.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Put two mats down on one side of the court with a player on each one.  The players can move, as long as they stay on the mats</li>
@@ -41,7 +41,7 @@ Adaptations can be that if the server hits a player then everyone starts again
 
 `accuracy, competition`
 
-<img alt="Serve to a team mate at each position" width="300" src="./images/Round-The-World.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Serve to a team mate at each position" width="300" src="./images/Round-The-World.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Split into two teams, one on each side of the net</li>
@@ -61,7 +61,7 @@ _This is an old one but I learned it from Dave Carr at Roke VC_
 
 `skill before power, control`
 
-<img alt="Server start close and step back on success" width="300" src="./images/Step-Back.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Server start close and step back on success" width="300" src="./images/Step-Back.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Pairs start on the 3m line and serve back and forth</li>
@@ -77,7 +77,7 @@ _This is an old one but I learned it from Dave Carr at Roke VC_
 
 `control, consistency`
 
-<img alt="Teams of servers compete for consistency" width="300" src="./images/Team-Count.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Teams of servers compete for consistency" width="300" src="./images/Team-Count.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Split into two teams of server</li>
@@ -94,7 +94,7 @@ _This is an old one but I learned it from Dave Carr at Roke VC_
 
 `control, consistency`
 
-<img alt="Teams of server compete for the longest run of consistency" width="300" src="./images/Team-Run.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Teams of server compete for the longest run of consistency" width="300" src="./images/Team-Run.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Split into two teams of server</li>
@@ -111,7 +111,7 @@ _This is an old one but I learned it from Dave Carr at Roke VC_
 
 `accuracy, development, statistics`
 
-<img alt="Serving from 3 zones to 3 zones" width="300" src="./images/Zone-Scores.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Serving from 3 zones to 3 zones" width="300" src="./images/Zone-Scores.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Each server serves the same number of serves from each zone to each zone</li>

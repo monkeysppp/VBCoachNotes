@@ -7,7 +7,7 @@ _Bertrand Olie   <li>Volleyball England article [https://www.volleyballengland.o
 
 `thinking`
 
-<img alt="Play one ball and keep the other one at hand" width="300" src="./images/Double-Ball.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Play one ball and keep the other one at hand" width="300" src="./images/Double-Ball.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>The pair have a ball that one of the pair is holding</li>
@@ -24,7 +24,7 @@ _Saffi Mant, Solent training_
 
 `thinking`
 
-<img alt="Pass and Cross" width="300" src="./images/Cross-Over.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Pass and Cross" width="300" src="./images/Cross-Over.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 1. Both F feed a ball to their passers; the pair pass the 1st ball, then swap sides
 2. Both F feed another ball to their passers; the pair pass the 2nd ball, then run toward F
@@ -41,7 +41,7 @@ _Bertrand Olie   <li>Volleyball England article [https://www.volleyballengland.o
 
 `thinking, movement`
 
-<img alt="Match your partner" width="300" src="./images/Man-Marking.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Match your partner" width="300" src="./images/Man-Marking.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Use a small part of the court and play 3v3</li>
@@ -61,7 +61,7 @@ _Volleyball England "Setting Session" 2016 [https://vimeo.com/170591134](https:/
 
 `movement, setting`
 
-<img alt="Chinese Setter Warmup" width="300" src="./images/Chinese-Setter-Warmup.png" align="left" style="margin: 0px 30px 0px 0px;" />
+<img alt="Chinese Setter Warmup" width="300" src="./images/Chinese-Setter-Warmup.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 The ball stays in flight throughout the drill with 3 setters working (note that the S<sub>#</sub> markers on the diagram are positions, not players). One of the setters stays at S<sub>4</sub> and the other two setters work around the positions S<sub>1</sub> to S<sub>3</sub>.
 

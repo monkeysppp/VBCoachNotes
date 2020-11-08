@@ -6,7 +6,7 @@
 
 `movement, position, high-energy pass`
 
-<img alt="passer moves from 6 to 1 to pass attack ball" width="300" src="./images/Middle-Pass-4.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="passer moves from 6 to 1 to pass attack ball" width="300" src="./images/Middle-Pass-4.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>Player starts at 6</li>
@@ -24,7 +24,7 @@ Adaptations can run any hit at any target with movement from any starting positi
 
 `high-energy pass, interception, confidence`
 
-<img alt="Continual strong attack balls" width="300" src="./images/Hardball.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Continual strong attack balls" width="300" src="./images/Hardball.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder hits a series of hard balls at the passer</li>
@@ -41,7 +41,7 @@ Adaptations can run any hit at any target with movement from any starting positi
 
 `position`
 
-<img alt="Simulate an attach through 4 for a full 6" width="300" src="./images/Through-4.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Simulate an attach through 4 for a full 6" width="300" src="./images/Through-4.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder is on a bench simulating an attach through 4, with 6 players in base position</li>
@@ -60,7 +60,7 @@ Adaptations can run through different attack lanes and teach different defensive
 
 `position, high-energy pass`
 
-<img alt="Back court defense work from 4 hit" width="300" src="./images/Line-Defence.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Back court defense work from 4 hit" width="300" src="./images/Line-Defence.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>Start with just the 3 back-court players in base positions</li>
@@ -80,7 +80,7 @@ _Taught by Dan Hunter (Team GB libero at London 2012) as used by the men's GB te
 
 `reactions`
 
-<img alt="play, turn, play" width="300" src="./images/Double-Dutch.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="play, turn, play" width="300" src="./images/Double-Dutch.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>Start with each feeder having a ball and the player in the middle, facing away from one of the feeders</li>
@@ -102,7 +102,7 @@ Adaptations can be to hit the attack feed earlier and earlier (they should at le
 
 `technique under exhaustion`
 
-<img alt="continual move and pass" width="300" src="./images/Sweaty-Blob.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="continual move and pass" width="300" src="./images/Sweaty-Blob.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder passes to one of the hitters, who hits a line ball</li>
@@ -121,7 +121,7 @@ _Paul Westhead, level 2 coaching course_
 
 `technique`
 
-<img alt="Continual passing" width="300" src="./images/Freeball.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Continual passing" width="300" src="./images/Freeball.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>Run with 2 balls in each group, and you can run multiple groups over one net</li>
@@ -139,7 +139,7 @@ _Paul Westhead, level 2 coaching course_
 
 `technique`
 
-<img alt="Continual freeballs" width="300" src="./images/Freeball-Loop.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Continual freeballs" width="300" src="./images/Freeball-Loop.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>There is a continuous loop of the passer passing to the target at the net and the target playing a free ball over to the other side</li>
@@ -155,7 +155,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 `technique`
 
-<img alt="move sideways and play free ball pass" width="300" src="./images/Freeball-Cross.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="move sideways and play free ball pass" width="300" src="./images/Freeball-Cross.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>Passer side-steps into position, making sure their outside foot is forward so they face back to the centre</li>
@@ -171,7 +171,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 `recovery`
 
-<img alt="Throw a ball off the back of court and they have to recover and get over the net" width="300" src="./images/Back-Shank.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Throw a ball off the back of court and they have to recover and get over the net" width="300" src="./images/Back-Shank.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder throws a high ball out the back of the court</li>
@@ -188,7 +188,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 `recovery`
 
-<img alt="Throw a ball off the side of court and they have to recover and get over the net" width="300" src="./images/Side-Shank.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Throw a ball off the side of court and they have to recover and get over the net" width="300" src="./images/Side-Shank.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder throws a high ball out the side of the court</li>
@@ -205,7 +205,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 `extreme defence, team-building`
 
-<img alt="One person covering the whole court for multiple balls" width="300" src="./images/Madman.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="One person covering the whole court for multiple balls" width="300" src="./images/Madman.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>One player starts in the middle of the court</li>
@@ -227,7 +227,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 `hunger, communication, responsibility`
 
-<img alt="Two players have three touches from a free ball" width="300" src="./images/2-on.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Two players have three touches from a free ball" width="300" src="./images/2-on.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder feeds a free ball over to 2 players</li>
@@ -242,7 +242,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 `hunger, communication, responsibility`
 
-<img alt="Three players plus a fixed setter have three touches from a free ball" width="300" src="./images/3-on.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Three players plus a fixed setter have three touches from a free ball" width="300" src="./images/3-on.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder feeds a free ball over to 3 players</li>
@@ -258,7 +258,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 `reactions, low`
 
-<img alt="Passer passes a ball fed from behind bouncing off a wall" width="300" src="./images/Off-the-Wall.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Passer passes a ball fed from behind bouncing off a wall" width="300" src="./images/Off-the-Wall.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The passer is facing a wall with a feeder behind them</li>
@@ -274,7 +274,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 `reactions, observation`
 
-<img alt="The feeder has two balls, the passer doesn't know which one they're passing" width="300" src="./images/Watch-the-Ball.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="The feeder has two balls, the passer doesn't know which one they're passing" width="300" src="./images/Watch-the-Ball.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder has two balls and the passer has to stay ready and observant</li>
@@ -291,7 +291,7 @@ _https://youtu.be/6SHkijFbpCM?t=208_
 
 `stay low`
 
-<img alt="Player has to move under a low bar before passing" width="300" src="./images/Under-the-Bar.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Player has to move under a low bar before passing" width="300" src="./images/Under-the-Bar.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>Player starts one side of the bar</li>
@@ -308,7 +308,7 @@ _https://youtu.be/6SHkijFbpCM?t=208_
 
 `matchplay`
 
-<img alt="Defend a pipe hit at 1" width="300" src="./images/Pipe-Defence.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Defend a pipe hit at 1" width="300" src="./images/Pipe-Defence.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>A ball is fed to the libero and 4 hitter at 6, and they pass to the setter</li>
@@ -325,7 +325,7 @@ _https://youtu.be/6SHkijFbpCM?t=208_
 
 `psychology, determination`
 
-<img alt="pass and hit but your pass gets easier the better you do" width="300" src="./images/Redemption-and-Reward.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="pass and hit but your pass gets easier the better you do" width="300" src="./images/Redemption-and-Reward.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>A passer faces an attack ball at 1 and they pass to the setter</li>
@@ -341,7 +341,7 @@ _https://youtu.be/6SHkijFbpCM?t=208_
 
 `passing, ball-energy`
 
-<img alt="A passer faces three types of attack in a row" width="300" src="./images/3-Energies.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="A passer faces three types of attack in a row" width="300" src="./images/3-Energies.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The passer passes three ball sin succession, each of different energies:
@@ -363,7 +363,7 @@ Adaptations can change the order lines and positions of the attacks
 
 `footwork`
 
-<img alt="Passer faces one of two feeds" width="300" src="./images/Sort-Your-Feet.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Passer faces one of two feeds" width="300" src="./images/Sort-Your-Feet.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The passer faces one of two types of feed:
@@ -385,7 +385,7 @@ _Saffi Mant, Solent training_
 
 `work`
 
-<img alt="Make them work" width="300" src="./images/2-Balls.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="Make them work" width="300" src="./images/2-Balls.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>The feeder has 2 balls at once</li>
@@ -403,7 +403,7 @@ _Saffi Mant, Solent training_
 
 `work`
 
-<img alt="three passers working together" width="300" src="./images/Within-a-Foot.png" align="left" style="margin: 0px 30px 0px 0px\;" />
+<img alt="three passers working together" width="300" src="./images/Within-a-Foot.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px\;" />
 
 <ul style="margin-left: 300px">
   <li>One feeder works three players</li>
