@@ -14,7 +14,6 @@ _Tim Nash, Southampton VC Training_
   <li>The left blocker transitions right to the right blocker, both blockers jump</li>
   <li>Both blockers transition left and block</li>
   <li>Both blockers transition right and block</li>
-  <li>The footwork should focus on the players getting their outside foot turned back in toward the centre of the opposition court</li>
   <li>The left blocker replaces the right blocker, and the right blocker peels off and joins the back of the queue</li>
 </ul>
 
@@ -33,7 +32,7 @@ _Tim Nash, Southampton VC Training_
   <li>The passer passes to the centre of court and their partner comes in and sets to the cross-court wing</li>
   <li>The hitter rolls a shot across court</li>
   <li>The passers replace the hitters</li>
-  <li>Cheeck that the players adapt to the ball they are playing: this is out of system, so the players should maximize chance of success and putting pressure on the opposition, not the high risk balls</li>
+  <li>Check that the players adapt to the ball they are playing: this is out of system, so the players should maximize chance of success and putting pressure on the opposition, not the high risk balls</li>
 </ul>
 
 <br clear="left"/>
