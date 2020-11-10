@@ -86,7 +86,7 @@ _Taught by Dan Hunter (Team GB libero at London 2012) as used by the men's GB te
   <li>Start with each feeder having a ball and the player in the middle, facing away from one of the feeders</li>
   <li>The feeder calls the players name, they turn and immediately get an attack ball</li>
   <li>As soon as they have played the ball, they must turn and face another attack ball from the second feeder
-    <ul>
+    <ul style="margin-bottom: 0px;">
       <li>The drill then <i>stops</i> and resets.  Some players get stuck in a slow loop of continual turn-pass-turn-pass...  That is not the drill; it should be 2 consecutive, high-speed attack balls with minimal time to react, then we stop and reset.</li>
     </ul>
   </li>
@@ -212,7 +212,7 @@ Adaptations can include the target playing back to the passer to play the free b
   <li>The feeder feeds a set number of balls (8-10 is good) to various places in various ways (tip, roll, power etc)</li>
   <li>The player has to touch the ball, forget it and then get on with the next ball</li>
   <li>The other players have two jobs:
-    <ul>
+    <ul style="margin-bottom: 0px;">
       <li>Collect the balls so the court space is safe</li>
       <li>Vocally support the player</li>
     </ul>
@@ -345,7 +345,7 @@ _https://youtu.be/6SHkijFbpCM?t=208_
 
 <ul style="margin-left: 300px">
   <li>The passer passes three ball sin succession, each of different energies:
-    <ul>
+    <ul style="margin-bottom: 0px;">
       <li>A tip ball close to 2</li>
       <li>A roll shot at 6</li>
       <li>A power hit cross court</li>
@@ -367,7 +367,7 @@ Adaptations can change the order lines and positions of the attacks
 
 <ul style="margin-left: 300px">
   <li>The passer faces one of two types of feed:
-    <ul>
+    <ul style="margin-bottom: 0px;">
       <li>A tip/bump feed (stay on toes and be mobile)</li>
       <li>An attack ball (stable and reactive)</li>
     </ul>

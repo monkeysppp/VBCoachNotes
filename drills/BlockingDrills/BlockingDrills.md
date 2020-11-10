@@ -44,7 +44,7 @@
 <ul style="margin-left: 300px">
   <li>Hitters on platforms feed an attack ball into a block</li>
   <li>The blocker goes back and forth between the feeders, blocking until they are exhausted
-    <ul>
+    <ul style="margin-bottom: 0px;">
       <li>Caution that loose balls are clear of the blocker</li>
     </ul>
   </li>
@@ -79,7 +79,7 @@
   <li>The blocker starts at 3</li>
   <li>A feeder slaps the ball and the blocker swing blocks out to block a 4-hit</li>
   <li>The feeder feeds a flat ball and the blocker blocks
-    <ul>
+    <ul style="margin-bottom: 0px;">
       <li>Note that a low net helps with feed variability as a feeder off the net tends to go high to avoid the block; the player still has to jump high to reach the ball even if the net is low</li>
     </ul>
   </li>
@@ -100,7 +100,7 @@ _Paul Westhead, level 2 coaching course_
 <ul style="margin-left: 300px">
   <li>Feed a ball into the passers, who pass to the setter</li>
   <li>The setter sets to the 4 hitter, who hits into a 2-person block
-    <ul>
+    <ul style="margin-bottom: 0px;">
       <li>If the block is too weak, replace with a board</li>
     </ul>
   </li>

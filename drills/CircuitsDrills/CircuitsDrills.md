@@ -176,7 +176,7 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 <ul style="margin-left: 300px">
   <li>The passers face a simple chain of 3 kinds of pass:
-    <ul>
+    <ul style="margin-bottom: 0px;">
       <li>Attack ball: stay low and wide, and intercept the ball in front</li>
       <li>Tip ball: get low and under the ball and use your legs to lift it high for the setter</li>
       <li>Roll-chase: get behind the ball and pull back to the target</li>
