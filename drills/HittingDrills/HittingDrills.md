@@ -195,7 +195,7 @@ Adaptations can involve adding a block to beat.
 
 <ul style="margin-left: 300px">
   <li>Run any of 3 possible lanes
-    <ul style="margin-bottom: 0px;">
+    <ul style="margin-bottom: 0px; list-style-type: circle;">
       <li>10 ball on the side line</li>
       <li>Pipe attack from between 1 and 6</li>
       <li>Pipe attack from between 5 and 6</li>
