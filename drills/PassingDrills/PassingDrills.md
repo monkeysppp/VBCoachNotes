@@ -415,3 +415,123 @@ _Saffi Mant, Solent training_
 <br clear="left"/>
 
 ---
+
+### Defend From the Bench
+
+_Piotr Wierzchowiec_
+
+`technique`
+
+<img alt="passer starts on the bench before passing" width="300" src="./images/Defend-From-the-Bench.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
+
+<ul style="margin-left: 300px">
+  <li>The passer starts sat on the bench</li>
+  <li>The feeder feeds a loopy feed</li>
+  <li>The passer stands up as they pass; they should pass before they're upright!</li>
+  <li>Repeat 10 times and swap</li>
+</ul>
+
+<br clear="left"/>
+
+---
+
+### Attack From the Bench
+
+`steep attack`
+
+<img alt="passer faces an attack from high and steep angle" width="300" src="./images/Attack-From-the-Bench.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
+
+<ul style="margin-left: 300px">
+  <li>The feeder starts on a bench and hits an attack ball at the passer</li>
+  <li>The passer stays low and defends the attack; they should learn that staying low buys them more time</li>
+</ul>
+
+<br clear="left"/>
+
+---
+
+### Passing Box Drill
+
+`pass-and-move`
+
+<img alt="passers in a square with two balls passing diagonally" width="300" src="./images/Passing-Box-Drill.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
+
+<ul style="margin-left: 300px">
+  <li>Start with four groups (in a square) and two balls</li>
+  <li>The balls are passed diagonally</li>
+  <li>Once the ball is played, the passer moves to the next queue</li>
+</ul>
+
+<br clear="left"/>
+
+Adaptations include passing one ball and volleying the other; changing direction on a call from the coach
+
+---
+
+### Random Ball
+
+`ready`
+
+<img alt="Passers play a ball that bounces off a gym ball" width="300" src="./images/Random-Ball.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
+
+<ul style="margin-left: 300px">
+  <li>The feeder hits a ball into a gym ball (from close range)</li>
+  <li>The passer has to react and pass the ball</li>
+  <li>Note that this can take a bit of time for the feeder to work out how to feed, and for the passers to loosen up</li>
+</ul>
+
+<br clear="left"/>
+
+---
+
+### Off the Net
+
+`low and ready, out-of-system`
+
+<img alt="Play a ball driven into the net and play over the net" width="300" src="./images/Off-the-Net.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
+
+<ul style="margin-left: 300px">
+  <li>The feeder drives a ball hard into the net, varying the feed point</li>
+  <li>Two passers have to get right under the ball and lift it up for their partner to try and hit</li>
+</ul>
+
+<br clear="left"/>
+
+---
+
+### Three Blind Passes
+
+`reaction`
+
+<img alt="Passer plays three blind balls off a wall" width="300" src="./images/Three-Blind-Passes.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
+
+<ul style="margin-left: 300px">
+  <li>The passer faces three balls in a row, all played off of a hard surface but fed from behind the player</li>
+  <li>The passer must react and play the ball up</li>
+  <li>This can use a wall or a padded surface</li>
+</ul>
+
+<br clear="left"/>
+
+---
+
+### Hoops Variation
+
+`energy, target`
+
+<img alt="play 2 balls with different energy to a target" width="300" src="./images/Hoops-Variation.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
+
+<ul style="margin-left: 300px">
+  <li>The passer faces two consecutive feeds
+    <ul style="margin-bottom: 0px; list-style-type: circle;">
+      <li>An attack ball (stable and reactive)</li>
+      <li>A free ball feed (stay on toes and be mobile)</li>
+    </ul>
+  </li>
+  <li>The passer has to try and pass the ball into the hoop</li>
+  <li>Can use a scoring system: 1pt for hitting, 3 pts for in the hoop</li>
+</ul>
+
+<br clear="left"/>
+
+---
