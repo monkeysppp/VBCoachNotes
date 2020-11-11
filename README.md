@@ -4,7 +4,6 @@
 - [Drills](./drills/Drills.md)
   - [Blocking](./drills/BlockingDrills/BlockingDrills.md)
   - [Circuits](./drills/CircuitsDrills/CircuitsDrills.md)
-  - [Defence](./drills/DefenceDrills/DefenceDrills.md)
   - [Hitting](./drills/HittingDrills/HittingDrills.md)
   - [Passing](./drills/PassingDrills/PassingDrills.md)
   - [Rally](./drills/RallyDrills/RallyDrills.md)
