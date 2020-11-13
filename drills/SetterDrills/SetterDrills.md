@@ -29,7 +29,7 @@ Adaptations can be adding targets for the hitters, or adding blockers
 
 <ul style="margin-left: 300px">
   <li>The feeder feeds to S, sets to H, hits to target</li>
-  <li>The blocker blocks cross and _leaves the line_ for the hitter</li>
+  <li>The blocker blocks cross and <i>leaves the line</i> for the hitter</li>
   <li>Each person moves on one place</li>
 </ul>
 

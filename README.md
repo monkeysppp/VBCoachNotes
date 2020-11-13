@@ -21,5 +21,5 @@
 
 ### Reference
 
-- Attribution to a source are given in _italics_
+- Attribution to a source are given in _italics_.  These are where I got the information from but may not be the original source.
 - Anything in `codeblock` is a tag/theme for an activity
