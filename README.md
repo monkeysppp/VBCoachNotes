@@ -7,7 +7,6 @@
   - [Hitting](./drills/HittingDrills/HittingDrills.md)
   - [Passing](./drills/PassingDrills/PassingDrills.md)
   - [Rally](./drills/RallyDrills/RallyDrills.md)
-  - [Rotations](./drills/RotationDrills/RotationDrills.md)
   - [Serve Receive](./drills/ServeReceiveDrills/ServeReceiveDrills.md)
   - [Service](./drills/ServiceDrills/ServiceDrills.md)
   - [Setters](./drills/SetterDrills/SetterDrills.md)
