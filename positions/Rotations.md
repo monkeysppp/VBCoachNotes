@@ -12,7 +12,7 @@ the rotation system; this is why rotations exist.
 The rotation system you use must be suitable for the players in the team.  My aim is to get players to run a 5-1 system, but there's nothing wrong with running a system where
 you play the position you're in  and the setter is at set at 3, if that's what is suitable for the players and the environment your playing in.
 
-Given that the aim is to get to a 5-1 system, I wrote [VBRotations](https://monkeysppp.github.io/VBRotations/) to teach new players how the system works and where the players are
+Given that the aim is to get to a 5-1 system, I wrote [VBRotations](https://github.com/monkeysppp/VBRotations) to teach new players how the system works and where the players are
 supposed to go, from service receive, through to the attack.
 
-You can see the [5-1 rotation system here](https://monkeysppp.github.io/VBRotations/Rotations.html)
+You can see the [5-1 rotation system here](https://monkeysppp.github.io/VBRotations)
