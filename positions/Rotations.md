@@ -14,7 +14,7 @@ you play the position you're in  and the setter is at set at 3, if that's what i
 
 ## Running a 5-1 rotation
 
-![Typical 5-1 rotation layout](../images/VBRotations.png)
+[![Typical 5-1 rotation layout](../images/VBRotations.png)](https://monkeysppp.github.io/VBRotations)
 
 Given that the aim is to get to a 5-1 system, I wrote [VBRotations](https://github.com/monkeysppp/VBRotations) to teach new players how the system works and where the players are
 supposed to go, from service receive, through to the attack.
