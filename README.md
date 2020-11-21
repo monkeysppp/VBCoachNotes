@@ -12,6 +12,7 @@
   - [Warmup](./drills/WarmupDrills/WarmupDrills.md)
 - [Positions](./positions/Positions.md)
   - [Setters](./positions/Setters.md)
+  - [Rotations](./positions/Rotations.md)
 - [Serve Receive](./ServeReceive.md)
 - [Miscellaneous](./Miscellaneous.md)
 - [Psychology](./Psychology.md)

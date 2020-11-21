@@ -1,6 +1,6 @@
 [Index](../README.md) > [Positions](./Positions.md)
 
-## Setters
+# Setters
 
 At what point do you make someone a setter?
 

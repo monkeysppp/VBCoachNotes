@@ -32,11 +32,9 @@ Optimal training requires:
 
 Don't think in terms of player skill or experience; think in terms of the amount of regulatory stimuli.
 
-## Meta-cognition
+## Cognitive Influences
 
 _A lot of this comes from various episodes of https://youarenotsosmart.com/podcast/_
-
-### Cognitive Influences
 
 - Learned Helplessness  
   _"Failure risks teaching that something is impossible"_  
@@ -92,24 +90,17 @@ A player's mental strength is made up of many attributes:
 - Team oriented: Committed to the team's goals and understand their role in it
 - Independence: Enjoys taking decisions into their own hands
 
-### Mental Strength Drills
+## Mental Strength Drills
 
 - Competitive:
   - Play a set from 18-18.  The side that wins starts the nest set 16-18 down, so have to work harder to keep winning
 - Resilience:
-  - A hitter must hit 5 clean hits in a row, a fault resets the count
+  - A hitter must hit 5 clean hits in a row, a fault resets the count.  How do they handle failure?
 - Focus:
   - Asking questions (like the score or the current tactics) during a matchplay drill
 - Confidence:
   - Play a match where one player scores 5 points if they kill the ball, so they have confidence of reward for success.  Limit the time they are the special player, so they learn that they are special during specific phases of a match
   - Improve low confidence by working on core skills and a clear definition of the player's role and goals in the team
-
-## Drills
-
-### 5-3
-
-Play a match, but the receiveing team must score 5 points before the serving team score 1
-
-### 5-3+
-
-Play a match as in 5-3, but when the receiving team score 5, they _must_ win the next point or the serving team win
+- General:
+  - 5-3: Play a match, but the receiveing team must score 5 points before the serving team score 1
+  - 5-3+: Play a match as in 5-3, but when the receiving team score 5, they _must_ win the next point or the serving team win

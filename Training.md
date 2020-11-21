@@ -16,11 +16,11 @@
 - Coaches get better results by giving solutions to problems or targets the players can attain
 - Have a clear and obvious target that's highly visible to the players.  Write it on the wall where you train if necessary
 
-### Reading the Game
+## Reading the Game
 
 "Reading" is one of the most important skills.  If a player can't read the game then they won't play, they will only panic and react.  
 
-### Energy Investment Model
+## Energy Investment Model
 
 <img alt="Classic Energy Investment Model" width="500" src="./images/Energy-Investment-Model.png" />
 
