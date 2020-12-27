@@ -21,7 +21,7 @@ Rule 1: You cannot improve unless you are willing to change.  Growth takes place
 | Explicit | Implicit |
 | --- | --- |
 | Tends to dominate in the early phases of learning | Characterises the automated movement of the expert player |
-| Tends to stabilize rapidly (quick to learn what to do) | Can be gradual and eratic (slow to learn what to do) |
+| Tends to stabilize rapidly (quick to learn what to do) | Can be gradual and erratic (slow to learn what to do) |
 
 Optimal training requires:
 
@@ -31,6 +31,13 @@ Optimal training requires:
 - Early implementation of variable practice and whole-skill training
 
 Don't think in terms of player skill or experience; think in terms of the amount of regulatory stimuli.
+
+## Hierarchy of Competence
+
+- Unconscious Competence | Right Intuition <== hey, this looks like you've trained your system-1 brain to do the right thing.
+- Conscious Competence | Right Analysis
+- Conscious Incompetence | Wrong Analysis
+- Unconscious Incompetence | Wrong Intuition
 
 ## Cognitive Influences
 
