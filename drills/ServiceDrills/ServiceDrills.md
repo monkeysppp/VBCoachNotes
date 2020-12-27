@@ -6,7 +6,7 @@
 
 _Paul Westhead, level 2 coaching course_
 
-`accuracy, decision`
+`accuracy`, `decision`
 
 <img alt="Serve, sit where it landed, next server must avoid people sat down" width="300" src="./images/Follow-Me.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -24,7 +24,7 @@ Adaptations can be that if the server hits a player then everyone starts again
 
 ### Miss Me
 
-`accuracy, decision`
+`accuracy`, `decision`
 
 <img alt="Serving at gaps between players" width="300" src="./images/Miss-Me.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -39,7 +39,7 @@ Adaptations can be that if the server hits a player then everyone starts again
 
 ### Round The World
 
-`accuracy, competition`
+`accuracy`, `competition`
 
 <img alt="Serve to a team mate at each position" width="300" src="./images/Round-The-World.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -59,7 +59,7 @@ Adaptations can be that if the server hits a player then everyone starts again
 
 _This is an old one but I learned it from Dave Carr at Roke VC_
 
-`skill before power, control`
+`skill before power`, `control`
 
 <img alt="Server start close and step back on success" width="300" src="./images/Step-Back.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -75,7 +75,7 @@ _This is an old one but I learned it from Dave Carr at Roke VC_
 
 ### Team Count
 
-`control, consistency`
+`control`, `consistency`
 
 <img alt="Teams of servers compete for consistency" width="300" src="./images/Team-Count.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -92,7 +92,7 @@ _This is an old one but I learned it from Dave Carr at Roke VC_
 
 ### Team Run
 
-`control, consistency`
+`control`, `consistency`
 
 <img alt="Teams of server compete for the longest run of consistency" width="300" src="./images/Team-Run.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -109,7 +109,7 @@ _This is an old one but I learned it from Dave Carr at Roke VC_
 
 ### Zone Scores
 
-`accuracy, development, statistics`
+`accuracy`, `development`, `statistics`
 
 <img alt="Serving from 3 zones to 3 zones" width="300" src="./images/Zone-Scores.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 

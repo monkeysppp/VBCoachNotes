@@ -10,7 +10,7 @@
 
 <ul style="margin-left: 300px">
   <li>Feed from the left of the hitter</li>
-  <li>The middle has to watch the ball without being able to see the setter at first, and hit a quick attack</li>
+  <li>The middle has to watch the ball without being able to see the setter at first`, `and hit a quick attack</li>
 </ul>
 
 <br clear="left"/>
@@ -44,7 +44,7 @@ Adaptations can involve playing off a pass and putting up a block to beat.
 
 <ul style="margin-left: 300px">
   <li>Have someone other than the hitter feed the hitter's ball</li>
-  <li>Hit a line ball through 4, with a block blocking cross court to a target passer at 1</li>
+  <li>Hit a line ball through 4`, `with a block blocking cross court to a target passer at 1</li>
   <li>Everyone (except the setter) then moves on one position</li>
   <li>This can be run on both sides of the net and run as a chain</li>
 </ul>
@@ -74,7 +74,7 @@ Adaptations can involve adding a block to beat.
 
 ### Pass-And-Hit
 
-`passing, rhythm`
+`passing`, `rhythm`
 
 <img alt="4 hitter passes then hits" width="300" src="./images/Pass-And-Hit.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -106,7 +106,7 @@ Adaptations can involve adding a block to beat.
 
 ### Middle-Transition
 
-`transitions, work`
+`transitions`, `work`
 
 <img alt="chain of block, transition, attack" width="300" src="./images/Middle-Transition.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -140,7 +140,7 @@ Adaptations can involve adding a block to beat.
 
 ### Middle-Block-Hit
 
-`block and hit, work`
+`block and hit`, `work`
 
 <img alt="middle's running a chain of swing block and then hit" width="300" src="./images/Middle-Block-Hit.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -157,7 +157,7 @@ Adaptations can involve adding a block to beat.
 
 ### Middle-4-Stack
 
-`rotation, middle`
+`rotation`, `middle`
 
 <img alt="The middle hits a chain of stack-and-hit runs from 4" width="300" src="./images/Middle-4-Stack.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -173,7 +173,7 @@ Adaptations can involve adding a block to beat.
 
 ### Middle-2-Stack
 
-`rotation, middle`
+`rotation`, `middle`
 
 <img alt="The middle hits a chain of stack-and-hit runs from 2" width="300" src="./images/Middle-2-Stack.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -202,7 +202,7 @@ Adaptations can involve adding a block to beat.
     </ul>
   </li>
   <li>Have a separate feeding queue for each lane</li>
-  <li>This requires accurate setters, and mustn't have a block (too many balls floating around)</li>
+  <li>This requires accurate setters`, `and mustn't have a block (too many balls floating around)</li>
 </ul>
 
 <br clear="left"/>
@@ -218,7 +218,7 @@ Adaptations can involve adding a block to beat.
 <ul style="margin-left: 300px">
   <li>Have passers at 5 and at 6 and feed a ball for them to pass to the setter</li>
   <li>The player at 5 then transitions to hit thorugh 4 and the player at 6 runs a pipe attack</li>
-  <li>The setter can set to the non-passer or to the passer, whichever the coach wants to work on</li>
+  <li>The setter can set to the non-passer or to the passer`, `whichever the coach wants to work on</li>
 </ul>
 
 <br clear="left"/>

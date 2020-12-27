@@ -9,7 +9,7 @@ Things to remember for every drill:
 
 ### Who am I?
 
-`receive, reacton`
+`receive`, `reaction`
 
 <img alt="Passers have to guess the server's tactics" width="300" src="./images/Who-Am-I.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -26,7 +26,7 @@ Things to remember for every drill:
 
 _Paul Westhead, level 2 coaching course_
 
-`receive, pressue, stats`
+`receive`, `pressure`, `stats`
 
 <img alt="Passing unit continuously face serve while the other side are running as well" width="300" src="./images/Chaos.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -44,7 +44,7 @@ Adaptations can be that the coach or the setter rates the pass in terms of how m
 
 ### Junk Ball
 
-`rally, switching`
+`rally`, `switching`
 
 <img alt="Face a serve receive and then a junk ball" width="300" src="./images/Junk-Ball.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -59,9 +59,43 @@ Adaptations can be that the coach or the setter rates the pass in terms of how m
 
 ---
 
+### Two Ball
+
+`skills`
+
+<img alt="Passer passes a roll ball and then a flat float" width="300" src="./images/Two-Balls.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
+
+<ul style="margin-left: 300px">
+  <li>The passer starts up short, and on a ball slap is triggered to move back</li>
+  <li>The first feeder feeds a roll ball that the passer passes to the target</li>
+  <li>As soon as the pass is complete, the second feeder drives a float ball flat and deep</li>
+  <li>The passer has to move back and set themselves to pass the second ball to the target</li>
+  <li>The feeds _must_ be distinct and targeted</li>
+</ul>
+
+<br clear="left"/>
+
+---
+
+### Move Pass Rally
+
+`skills`
+
+<img alt="Passer starts short then passes a float serve and plays it out" width="300" src="./images/Move-Pass-Rally.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
+
+<ul style="margin-left: 300px">
+  <li>The passer starts short with their hand on the shoulder of their partner</li>
+  <li>On a trigger, the passer moves back and the server serves a flat float serve</li>
+  <li>The passer passes to their team mate and play the ball out, but with a back court attack only</li>
+</ul>
+
+<br clear="left"/>
+
+---
+
 ### Panic Button
 
-`allways ready`
+`always ready`
 
 <img alt="At a moment's notice, a team set up receive and build an attack" width="300" src="./images/Panic-Button.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -77,7 +111,7 @@ Adaptations can be that the coach or the setter rates the pass in terms of how m
 
 ### Serve Receive Loop
 
-`receive, pressure`
+`receive`, `pressure`
 
 <img alt="Continuous change of passers and servers in a loop" width="300" src="./images/Serve-Receive-Loop.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -110,7 +144,7 @@ Adaptations can be that the coach or the setter rates the pass in terms of how m
 
 ### Got the Whole World
 
-`receive, commitment`
+`receive`, `commitment`
 
 <img alt="One receiver covers the whole court" width="300" src="./images/Got-the-Whole-World.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 

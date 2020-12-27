@@ -4,7 +4,7 @@
 
 ### Block Attack
 
-`movement, defence`
+`movement`, `defence`
 
 <img alt="3 blockers v 3 hitters" width="300" src="./images/Block-Attack.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -20,7 +20,7 @@
 
 ### Block Chain
 
-`movement, technique`
+`movement`, `technique`
 
 <img alt="Repeat cycle of swing blocking" width="300" src="./images/Block-Chain.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -37,7 +37,7 @@
 
 ### Block Killer
 
-`movement, discipline under exhaustion`
+`movement`, `discipline under exhaustion`
 
 <img alt="Blocker going back and forth until exhausted" width="300" src="./images/Block-Killer.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -56,7 +56,7 @@
 
 ### Hoop Penetration
 
-`technique, invasion of space`
+`technique`, `invasion of space`
 
 <img alt="Blocker penetrating through a hoop over the net" width="300" src="./images/Hoop-Penetration.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -71,7 +71,7 @@
 
 ### Middle Man 4
 
-`movement, position`
+`movement`, `position`
 
 <img alt="Swing blocking a feed at 4" width="300" src="./images/Middle-Man-4.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -93,7 +93,7 @@
 
 _Paul Westhead, level 2 coaching course_
 
-`defence, team`
+`defence`, `team`
 
 <img alt="Repeat defence of a ball off the block" width="300" src="./images/Pachinko.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 

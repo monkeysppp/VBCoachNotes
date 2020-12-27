@@ -95,7 +95,9 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 ### Drop-Back-And-Pass
 
-`Saffi Mant, Solent training`
+_Saffi Mant, Solent training_
+
+`movement`, `shape`
 
 <img alt="On a ball-slap, the passer backs off and takes an attack ball" width="300" src="./images/Drop-Back-And-Pass.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -111,7 +113,7 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 ### Get-Up-Pass
 
-`work, discipline of technique`
+`work`, `discipline of technique`
 
 <img alt="player starts face down and has to get up and pass" width="300" src="./images/Get-Up-Pass.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -128,7 +130,7 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/news/article/5503/the-coaching-corner](https://www.volleyballengland.org/news/article/5503/the-coaching-corner)_
 
-`pressue`
+`pressure`
 
 <ul>
   <li>Play a simple match of 3v3 or 4v4</li>
@@ -138,7 +140,7 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 ### Hitter-Resilience
 
-`pressure, handling failure`
+`pressure`, `handling failure`
 
 <img alt="A hitter has to get " width="300" src="./images/Hitter-Resilience.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -154,7 +156,7 @@ _Bertrand Olie - Volleyball England article [https://www.volleyballengland.org/n
 
 ### Long-Short-Pass
 
-`movement, technique`
+`movement`, `technique`
 
 <img alt="A simple long pass and short pass" width="300" src="./images/Long-Short-Pass.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 

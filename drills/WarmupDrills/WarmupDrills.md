@@ -21,7 +21,7 @@ _Bertrand Olie   <li>Volleyball England article [https://www.volleyballengland.o
 
 ### Cross Over
 
-_Saffi Mant, Solent training_
+_Saffi Mant`, `Solent training_
 
 `thinking`
 
@@ -40,7 +40,7 @@ This can take a while to understand the sequencing; when they do, turn the feed 
 ### Man Marking
 _Bertrand Olie   <li>Volleyball England article [https://www.volleyballengland.org/news/article/5503/the-coaching-corner](https://www.volleyballengland.org/news/article/5503/the-coaching-corner)
 
-`thinking, movement`
+`thinking`, `movement`
 
 <img alt="Match your partner" width="300" src="./images/Man-Marking.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -60,7 +60,7 @@ Adaptations can be adding targets for the hitters, or adding blockers
 
 _Volleyball England "Setting Session" 2016 [https://vimeo.com/170591134](https://vimeo.com/170591134), used by China ladies team at London 2012_
 
-`movement, setting`
+`movement`, `setting`
 
 <img alt="Chinese Setter Warmup" width="300" src="./images/Chinese-Setter-Warmup.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 

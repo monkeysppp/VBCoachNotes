@@ -4,7 +4,7 @@
 
 ### Do As You're Told
 
-`control, variation`
+`control`, `variation`
 
 <img alt="Do as you're told" width="300" src="./images/Do-As-Youre-Told.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -23,7 +23,7 @@ Adaptations can be adding targets for the hitters, or adding blockers
 
 ### Everybody Sets
 
-`control, confidence, skills`
+`control`, `confidence`, `skills`
 
 <img alt="Everybody sets" width="300" src="./images/Everybody-Sets.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -39,7 +39,7 @@ Adaptations can be adding targets for the hitters, or adding blockers
 
 ### Everybody Sets Well`
 
-`control, confidence, skills`
+`control`, `confidence`, `skills`
 
 <img alt="Everybody sets well" width="300" src="./images/Everybody-Sets-Well.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -57,7 +57,7 @@ Hitters and setters learn what it's like doing each other's jobs
 
 ### Setting triangle
 
-`movement, skills`
+`movement`, `skills`
 
 <img alt="Some setting queue" width="300" src="./images/Setting-Triangle.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -74,7 +74,7 @@ Hitters and setters learn what it's like doing each other's jobs
 
 ### Hoops
 
-`control, skills`
+`control`, `skills`
 
 <img alt="Hoop volleys" width="300" src="./images/Hoops.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -91,7 +91,7 @@ Hitters and setters learn what it's like doing each other's jobs
 
 ### Volley Chase
 
-`control, skills`
+`control`, `skills`
 
 <img alt="volley and swap sides" width="300" src="./images/Volley-Chase.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -108,7 +108,7 @@ Adaptations can be 2 sets in an X formation crossing each other's paths.
 
 ### Front Court Chain
 
-`movement, defence`
+`movement`, `defence`
 
 <img alt="Chain of front setter roles" width="300" src="./images/Front-Drill-Chain.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -127,7 +127,7 @@ Adaptations can be 2 sets in an X formation crossing each other's paths.
 
 ### Back Court Chain
 
-`movement, defence`
+`movement`, `defence`
 
 <img alt="Chain of back setter roles" width="300" src="./images/Back-Drill-Chain.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -150,7 +150,7 @@ Adaptations can be 2 sets in an X formation crossing each other's paths.
 
 _Paul Westhead, level 2 coaching course_
 
-`stamina, control under pressure`
+`stamina`, `control under pressure`
 
 <img alt="Run around" width="300" src="./images/Run-Around.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -168,7 +168,7 @@ Adaptations can be to push the setter to awkward positions.
 
 ### Stacking
 
-`rotations, movement`
+`rotations`, `movement`
 
 <img alt="Stacking" width="300" src="./images/Stacking.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -184,7 +184,7 @@ Adaptations can be to push the setter to awkward positions.
 
 ### Disguise
 
-`skills, disguise`
+`skills`, `disguise`
 
 <img alt="practice disguise and consistency" width="300" src="./images/Disguise.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -200,7 +200,7 @@ Adaptations can be to push the setter to awkward positions.
 
 ### Box Drill
 
-`skills, body shape`
+`skills`, `body shape`
 
 <img alt="volleying with players in a square" width="300" src="./images/Box-Drill.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -223,7 +223,7 @@ Adaptations can be: one ball is passed; change direction
 <img alt="hitting queues with limited hits" width="300" src="./images/Track-Your-Hitters.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
-  <li>Free ball to the libero, passes to S</li>
+  <li>Free ball to the libero`, `passes to S</li>
   <li>The setter can set any hitter</li>
   <li>The hitter hits ball and then becomes feeder to L</li>
   <li>The setter must track hitters and queues; or hitter can be given specific counts for each hitting lane that they must perform</li>
@@ -251,9 +251,9 @@ Adaptations can be: one ball is passed; change direction
 
 ### Chinese Setter Warmup
 
-_Volleyball England "Setting Session" 2016 [https://vimeo.com/170591134](https://vimeo.com/170591134), used by China ladies team at London 2012_
+_Volleyball England "Setting Session" 2016 [https://vimeo.com/170591134](https://vimeo.com/170591134)`, `used by China ladies team at London 2012_
 
-`movement, setting`
+`movement`, `setting`
 
 <img alt="Chinese Setter Warmup" width="300" src="./images/Chinese-Setter-Warmup.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 

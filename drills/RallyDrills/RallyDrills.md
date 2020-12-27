@@ -23,7 +23,7 @@
 
 _This is what I know as "Korean Receive".  I don't know why it's called that, and other coaches might have something else with the same name_
 
-`warmup, defence`
+`warmup`, `defence`
 
 <img alt="Three passers facing two hitters" width="300" src="./images/Korean-Receive.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -58,7 +58,7 @@ _This is what I know as "Korean Receive".  I don't know why it's called that, an
 
 ### Never Ending Rally
 
-`rally, fixing mistakes`
+`rally`, `fixing mistakes`
 
 <img alt="6v6 but whenever there is a mistake, go back to the pass and try again" width="300" src="./images/Never-Ending-Rally.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 

@@ -4,13 +4,13 @@
 
 ### Middle-Pass-4
 
-`movement, position, high-energy pass`
+`movement`, `position`, `high-energy pass`
 
 <img alt="passer moves from 6 to 1 to pass attack ball" width="300" src="./images/Middle-Pass-4.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
   <li>Player starts at 6</li>
-  <li>Feeder slaps ball, player moves to 1</li>
+  <li>Feeder slaps ball`, `player moves to 1</li>
   <li>Feeder feeds an attack ball and the passer passes to the target</li>
 </ul>
 
@@ -22,7 +22,7 @@ Adaptations can run any hit at any target with movement from any starting positi
 
 ### Hardball
 
-`high-energy pass, interception, confidence`
+`high-energy pass`, `interception`, `confidence`
 
 <img alt="Continual strong attack balls" width="300" src="./images/Hardball.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -58,7 +58,7 @@ Adaptations can run through different attack lanes and teach different defensive
 
 ### Line-Defence
 
-`position, high-energy pass`
+`position`, `high-energy pass`
 
 <img alt="Back court defense work from 4 hit" width="300" src="./images/Line-Defence.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -147,7 +147,7 @@ _Paul Westhead, level 2 coaching course_
 
 <br clear="left"/>
 
-Adaptations can include the target playing back to the passer to play the free ball over, or the target playing a tip over the net
+Adaptations can include the target playing back to the passer to play the free ball over`, `or the target playing a tip over the net
 
 ---
 
@@ -158,7 +158,7 @@ Adaptations can include the target playing back to the passer to play the free b
 <img alt="move sideways and play free ball pass" width="300" src="./images/Freeball-Cross.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
-  <li>Passer side-steps into position, making sure their outside foot is forward so they face back to the centre</li>
+  <li>Passer side-steps into position`, `making sure their outside foot is forward so they face back to the centre</li>
   <li>The diagonal feeder feeds a free ball and they pass back</li>
   <li>The passer then sidesteps to the other side and repeats</li>
 </ul>
@@ -203,7 +203,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 ### Madman
 
-`extreme defence, team-building`
+`extreme defence`, `team-building`
 
 <img alt="One person covering the whole court for multiple balls" width="300" src="./images/Madman.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -225,7 +225,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 ### 2-on
 
-`hunger, communication, responsibility`
+`hunger`, `communication`, `responsibility`
 
 <img alt="Two players have three touches from a free ball" width="300" src="./images/2-on.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -240,7 +240,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 ### 3-on
 
-`hunger, communication, responsibility`
+`hunger`, `communication`, `responsibility`
 
 <img alt="Three players plus a fixed setter have three touches from a free ball" width="300" src="./images/3-on.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -256,7 +256,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 ### Off-the-Wall
 
-`reactions, low`
+`reactions`, `low`
 
 <img alt="Passer passes a ball fed from behind bouncing off a wall" width="300" src="./images/Off-the-Wall.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -272,7 +272,7 @@ Adaptations can include the target playing back to the passer to play the free b
 
 ### Watch-the-Ball
 
-`reactions, observation`
+`reactions`, `observation`
 
 <img alt="The feeder has two balls, the passer doesn't know which one they're passing" width="300" src="./images/Watch-the-Ball.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -297,7 +297,7 @@ _https://youtu.be/6SHkijFbpCM?t=208_
   <li>Player starts one side of the bar</li>
   <li>The feeder slaps the ball and the player has to pass under the bar</li>
   <li>The feeder feeds the ball and they pass</li>
-  <li>The player is forced to stay lower than they usually want, but they usually learn that they have a lot more time</li>
+  <li>The player is forced to stay lower than they usually want`, `but they usually learn that they have a lot more time</li>
 </ul>
 
 <br clear="left"/>
@@ -323,7 +323,7 @@ _https://youtu.be/6SHkijFbpCM?t=208_
 
 ### Redemption-and-Reward
 
-`psychology, determination`
+`psychology`, `determination`
 
 <img alt="pass and hit but your pass gets easier the better you do" width="300" src="./images/Redemption-and-Reward.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -339,7 +339,7 @@ _https://youtu.be/6SHkijFbpCM?t=208_
 
 ### 3-Energies
 
-`passing, ball-energy`
+`passing`, `ball-energy`
 
 <img alt="A passer faces three types of attack in a row" width="300" src="./images/3-Energies.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
@@ -459,7 +459,7 @@ _Piotr Wierzchowiec_
 <ul style="margin-left: 300px">
   <li>Start with four groups (in a square) and two balls</li>
   <li>The balls are passed diagonally</li>
-  <li>Once the ball is played, the passer moves to the next queue</li>
+  <li>Once the ball is played`, `the passer moves to the next queue</li>
 </ul>
 
 <br clear="left"/>
@@ -477,7 +477,7 @@ Adaptations include passing one ball and volleying the other; changing direction
 <ul style="margin-left: 300px">
   <li>The feeder hits a ball into a gym ball (from close range)</li>
   <li>The passer has to react and pass the ball</li>
-  <li>Note that this can take a bit of time for the feeder to work out how to feed, and for the passers to loosen up</li>
+  <li>Note that this can take a bit of time for the feeder to work out how to feed`, `and for the passers to loosen up</li>
 </ul>
 
 <br clear="left"/>
@@ -486,12 +486,12 @@ Adaptations include passing one ball and volleying the other; changing direction
 
 ### Off the Net
 
-`low and ready, out-of-system`
+`low and ready`, `out-of-system`
 
 <img alt="Play a ball driven into the net and play over the net" width="300" src="./images/Off-the-Net.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
-  <li>The feeder drives a ball hard into the net, varying the feed point</li>
+  <li>The feeder drives a ball hard into the net`, `varying the feed point</li>
   <li>Two passers have to get right under the ball and lift it up for their partner to try and hit</li>
 </ul>
 
@@ -506,7 +506,7 @@ Adaptations include passing one ball and volleying the other; changing direction
 <img alt="Passer plays three blind balls off a wall" width="300" src="./images/Three-Blind-Passes.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
 <ul style="margin-left: 300px">
-  <li>The passer faces three balls in a row, all played off of a hard surface but fed from behind the player</li>
+  <li>The passer faces three balls in a row`, `all played off of a hard surface but fed from behind the player</li>
   <li>The passer must react and play the ball up</li>
   <li>This can use a wall or a padded surface</li>
 </ul>
@@ -517,7 +517,7 @@ Adaptations include passing one ball and volleying the other; changing direction
 
 ### Hoops Variation
 
-`energy, target`
+`energy`, `target`
 
 <img alt="play 2 balls with different energy to a target" width="300" src="./images/Hoops-Variation.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
 
