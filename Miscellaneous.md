@@ -7,3 +7,4 @@
 - Skills should be symmetric if they come from a symmetric part of the game
 - Starting with simple skill drills with specific numeric targets (e.g. 5 this side/5 that side) can clear the athletes' heads of the "off court stuff"
 - Good officials anticipate the play but not the call. _Psychology of Officiating, Weinberg & Richardson_
+- Good officials let the competition flow and are not quick to intervene on minor technicalities

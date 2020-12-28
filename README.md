@@ -21,9 +21,11 @@
 
 ## Random notes
 
-- There is no single right answer to coaching, or how to play the game
+- There is no single right answer to coaching, or how to play the game; as long as there's a reason behind a decision, and the choices are effective then they are good answers
 - The best coaches adapt their style to the situation
 - Some coaches say "I don't coach the sport, I coach the people", others say "I don't coach the players, I coach the team"
+- A skill is, by definition, a thing that can be learned
+- A target is achievable, a dream is not
 
 ---
 
