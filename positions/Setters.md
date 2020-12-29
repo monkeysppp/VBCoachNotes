@@ -59,6 +59,18 @@ Setters need to understand the flow/rhythm of the game to know when to go fast a
 
 The dump/tip should be a threat as often as possible.
 
+### Stats
+
+_Does set effectiveness, in relation to zone location and touch type impact on point and game outcome throughout various stages of the 2018 FIVB Volleyball Men’s World Championships? - Leah Perkis_
+
+Typical setting locations (with above 10 % of the time)
+
+<img alt="Setter percentages, 35% zone two and a half, 15% zone one, 15% zone three and a half" width="500" src="./images/Setter-Location-Percentage.png" />
+
+- There is a strong correlation between setting effectiveness and winning
+- There is a strong correlation between passing to 2 1/2 and setting effectiveness
+- Teams that win more can still build an effective attack from zone 1
+
 ### General points
 
 - The setter/coach relationship is vital, and you want to work with them regularly
@@ -78,4 +90,5 @@ The dump/tip should be a threat as often as possible.
 
 ### Attributions
 
-- `Volleyball England "Setting Session" 2016 https://vimeo.com/170591134`
+- _Volleyball England "Setting Session" 2016 https://vimeo.com/170591134_
+- _Does set effectiveness, in relation to zone location and touch type impact on point and game outcome throughout various stages of the 2018 FIVB Volleyball Men’s World Championships? - Leah Perkis_

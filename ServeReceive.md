@@ -22,5 +22,5 @@ Read, Decide, Execute
 
 ### Attributions
 
-- `Volleyball England "Service & Reception Session" 2016 https://vimeo.com/170631099`
-- `Team USA "Stop Teaching Passing" https://www.teamusa.org/usa-volleyball/features/2011/march/02/stop-teaching-passing`
+- _Volleyball England "Service & Reception Session" 2016 https://vimeo.com/170631099_
+- _Team USA "Stop Teaching Passing" https://www.teamusa.org/usa-volleyball/features/2011/march/02/stop-teaching-passing_

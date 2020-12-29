@@ -13,3 +13,13 @@
 - Match stats should measure both teams and measure the player relating to the stat
 - Match stats should be contextual; consider a player's time on court when assessing their kills, consider that setter's don't typically score many points
 - Do you know your strongest/weakest rotations?  Do you know the opposition's weakest/strongest rotations?
+- Never play a libero unless you have a reason to play a libero
+- Never do something in a match that you haven't done in training
+- You must have a clear and practiced plan for what to do when the setter takes the first ball
+
+## Tactics
+
+- Target their setter; it massively reduces the accuracy and effectiveness of their set and attack
+- When the setter is back court or travelling a long distance, targeting 1 with serve can put time and skill pressure in the setter
+- Targeting a setter's running line with serve can be very effective
+- Serve to attack structures, communication lanes and setter's running lanes

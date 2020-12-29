@@ -109,5 +109,5 @@ A player's mental strength is made up of many attributes:
   - Play a match where one player scores 5 points if they kill the ball, so they have confidence of reward for success.  Limit the time they are the special player, so they learn that they are special during specific phases of a match
   - Improve low confidence by working on core skills and a clear definition of the player's role and goals in the team
 - General:
-  - 5-3: Play a match, but the receiveing team must score 5 points before the serving team score 1
+  - 5-3: Play a match, but the receiving team must score 5 points before the serving team score 1
   - 5-3+: Play a match as in 5-3, but when the receiving team score 5, they _must_ win the next point or the serving team win

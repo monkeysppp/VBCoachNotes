@@ -52,3 +52,14 @@ Make training as "real" as possible; the game teaches the game.
 - Where possible, there should be a score
 
 Ask yourself, "does this look like volleyball?"  Where does the ball come from?  Where does the ball go?  What are the players watching and where are they moving?  What decisions do they make?
+
+## Coaching Juniors
+
+- The coach's role is important; they are the trusted role model
+- Consider their confidence; grow it as much as skills.  Do this by making sure they succeed at some tasks
+- They want to play games, so lots of game-style drills
+- Let them take control and own their own development
+- When they get squirmy, wear them out, get them to hit against the wall
+- Let them explore the process/game so they can turn failure into learning
+- Understand them as individuals; sometimes they're having a bad day, so create a supportive environment and they'll thrive
+- Make sure the sport is competitive
