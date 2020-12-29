@@ -65,7 +65,7 @@ _Does set effectiveness, in relation to zone location and touch type impact on p
 
 Typical setting locations (with above 10 % of the time)
 
-<img alt="Setter percentages, 35% zone two and a half, 15% zone one, 15% zone three and a half" width="500" src="./images/Setter-Location-Percentage.png" />
+<img alt="Setter percentages, 35% zone two and a half, 15% zone one, 15% zone three and a half" width="500" src="../images/Setter-Location-Percentage.png" />
 
 - There is a strong correlation between setting effectiveness and winning
 - There is a strong correlation between passing to 2 1/2 and setting effectiveness
