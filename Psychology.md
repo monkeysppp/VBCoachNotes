@@ -81,6 +81,21 @@ _A lot of this comes from various episodes of https://youarenotsosmart.com/podca
 - Ubuntu: You are nothing but what your team makes you; your team mates are nothing but what you make them
 - "Wanting to win" and "working really hard" are not enough: everyone wants to win and works really hard.  You have to do your job every single time, every single rally.  That's the definition of discipline.
 
+### Confidence
+
+Confidence is a psychological skill; it can be learnt:
+
+- Thinking: practice thinking that you can and will succeed at what you set out to do, and train your inner voice to think that way
+- Acting: actions can drive your feelings, so act tall and confident in your abilities and certain of your actions
+- Visualise: see yourself succeeding at the actions you intend to perform, particularly at things you are still learning
+- Experience: the more you do and the more you succeed, the more you know that you can continue to succeed; the more you grow, the more you know that you can continue to grow
+- Technique: focussing on specific parts of a technique can help understand them to the point knowing you can do them
+- Preparation: being physically fit and mentally ready are not things you can just switch on, you need to build mechanisms of preparation for before you perform
+
+### Motivation
+
+You have to want to do the thing.  Combat a loss of motivation by setting goals: a well defined target with a deadline
+
 ## Mental Strengths
 
 A player's mental strength is made up of many attributes:
