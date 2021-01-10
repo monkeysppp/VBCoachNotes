@@ -4,6 +4,19 @@
 
 Rule 1: You cannot improve unless you are willing to change.  Growth takes place outside of your comfort zone.
 
+## Principles
+
+- Mistakes are made as a team
+- If someone calls "out" and the ball is played anyway, what should you do?  Stop and discuss the call?  A call isn't reality, unless the event has happened.
+- Get the players to teach themselves.  Don't let them depend on the coach; try to be like a parent and let hem fly on their own.
+- For peak performance, each player wants something different; some what time to practice, some what tea and a chat, some want shouting at
+- Find the right time and environment to talk; don't attack your stars in front of everyone unless you're doing it for a reason (_https://wisden.com/stories/international-cricket/when-murali-gave-paul-farbrace-the-biggest-spray_)
+- Defence is an attitude
+- Defence is a team sport
+- Process over product: focus on doing the job, not winning
+- Ubuntu: You are nothing but what your team makes you; your team mates are nothing but what you make them
+- "Wanting to win" and "working really hard" are not enough: everyone wants to win and works really hard.  You have to do your job every single time, every single rally.  That's the definition of discipline.
+
 ## Random notes
 
 - Combat against learned helplessness, both in the players in in the coaching staff
@@ -56,30 +69,7 @@ _A lot of this comes from various episodes of https://youarenotsosmart.com/podca
 
 ## Psychology of Play
 
-- Rules: What are you allowed to do
-- Responsibilities: What you are expected to do
-- The aim of every shot is to make the ball better than it was before you played it
-- Service
-  - A closed skill, and the first attacking shot
-  - Progression of skill should be: consistency, accuracy, power, movement
-  - Serving targets:
-    - Bad passers
-    - Someone new to the match
-    - Someone who just made a mistake
-    - Someone who just showed anger or emotion
-    - Someone you don't want to be the attacker
-- Switching allows specialisation and discrete responsibility
-- Communication should be loud, clear, concise and prompt
-- Mistakes are made as a team
-- If someone calls "out" and the ball is played anyway, what should you do?  Stop and discuss the call?  A call isn't reality, unless the event has happened.
-- Get the players to teach themselves.  Don't let them depend on the coach; try to be like a parent and let hem fly on their own.
-- For peak performance, each player wants something different; some what time to practice, some what tea and a chat, some want shouting at
-- Find the right time and environment to talk; don't attack your stars in front of everyone unless you're doing it for a reason (_https://wisden.com/stories/international-cricket/when-murali-gave-paul-farbrace-the-biggest-spray_)
-- Defence is an attitude
-- Defence is a team sport
-- Process over product: focus on doing the job, not winning
-- Ubuntu: You are nothing but what your team makes you; your team mates are nothing but what you make them
-- "Wanting to win" and "working really hard" are not enough: everyone wants to win and works really hard.  You have to do your job every single time, every single rally.  That's the definition of discipline.
+Some of this comes from _Psychology of Officiating, Weinberg & Richardson_.
 
 ### Confidence
 
@@ -94,7 +84,24 @@ Confidence is a psychological skill; it can be learnt:
 
 ### Motivation
 
-You have to want to do the thing.  Combat a loss of motivation by setting goals: a well defined target with a deadline
+You have to want to do the thing.  Combat a loss of motivation by setting goals:
+
+- Goals should be challenging but realistic
+- A goal should be positive; something you will _do_, not something you will _avoid_
+- You should have both short term goals (to chart progress by) and long term goals (to set the direction), all with a deadline
+- Goals should be written down and seen so that you are reminded of them often
+- You should identify strategies to help achieve your goals; don't juts generally wish them to happen
+
+You can also maintain motivation by:
+
+- Finding inspiration from other successful performer (in turn, you may become an inspiration for someone else and not even know it)
+- Reward yourself for doing well
+- Talk to your contemporaries; they can help when you can feel yourself losing motivation
+
+### Relaxation
+
+### Concentration
+
 
 ## Mental Strengths
 
