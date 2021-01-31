@@ -100,6 +100,37 @@ You can also maintain motivation by:
 
 ### Relaxation
 
+Relaxation's enemy is anxiety, which can reduce peak performance.  
+
+Anxiety can come from a number of sources:
+
+- Fear of failure, which we address with:
+  - Evaluating all aspects of a performance and not just the mistakes, and attempt impartial evaluation (don't give yourself all of the blame if the team looses)
+  - Separating your ego from your performance; a bad game does not make you a bad person
+  - Recontextualise failure as a step on learning to succeed
+- Fear of inadequacy, which we address with:
+  - Planning and preparation before the activity, both long and short term
+- Fear of loss of control, which we address with:
+  - Identifying and accepting what you can and cannot control
+
+Anxiety manifests itself:
+
+- Physically, as the "fight, flight, freeze" response, with an increase in adrenaline accompanied by an increase in breathing and heart rate.  Without control, excess physical anxiety can cause fatigue through useless muscle contraction.  We address this with:
+  - Controlled breathing.  Given that breathing is an autonomic activity that you can consciously control, athletes can focus on their breathing to help control physical anxiety.  Breathe slowly, in through the nose, out through the mouth; focus on how your diaphragm moves and how your shoulders relax.
+  - Progressive relaxation.  Focussed tensing and relaxing on different muscle groups can regain control over them.
+- Psychologically through reduced concentration and poor decision making.  Athletes need to maintain a high level of emotional engagement but without anxiety.  We address this with:
+  - Self-talk, focussing on positive self-talk and dismissing negative self-talk.  Like any other skill, this can be learned by first becoming aware of your self-talk, identifying wither it's usually positive or negative and learning to replace common negative self-talk with a positive equivalent ("I made a mistake" -> "I can relax and focus on my job")
+  - If a stimulus (like an aggressive opposition) regularly produces anxiety, then an athlete can learn to recognise and reassess that stimulus ("if that's how they play then they risk loosing _their_ emotional balance; I'm fine in my own zone")
+  - If the athlete can spot a negative thought early, they can use a trigger phrase or action to stop that thought and focus on moving on (Joe Root finds smiling works wonders)
+  - Slow down!
+
+
+#### Emotional state
+
+The athlete's emotional state is something they can learn to use, so they can maintain being "in the zone" (athletes should not fear adrenaline - they feel nervous because the game is important to them).
+
+Consider the inverted-U plot of arousal-v-performance.  This is most correlated with positive emotional energy.  Where this inverted-U sits is also unique to each individual athlete.  Athletes first need to be aware of their emotional state, then correlate that state with good performances.  This can be formalised by rating confidence/motivation/relaxation/control/energy/self-talk/concentration/enjoyment for various performances and correlated with how successful those performances were.  They can also be considered at different phases of a performance (like in the deciding set of a match)
+
 ### Concentration
 
 
