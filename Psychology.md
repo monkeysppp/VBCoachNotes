@@ -10,7 +10,7 @@ Rule 1: You cannot improve unless you are willing to change.  Growth takes place
 - If someone calls "out" and the ball is played anyway, what should you do?  Stop and discuss the call?  A call isn't reality, unless the event has happened.
 - Get the players to teach themselves.  Don't let them depend on the coach; try to be like a parent and let hem fly on their own.
 - For peak performance, each player wants something different; some what time to practice, some what tea and a chat, some want shouting at
-- Find the right time and environment to talk; don't attack your stars in front of everyone unless you're doing it for a reason (_https://wisden.com/stories/international-cricket/when-murali-gave-paul-farbrace-the-biggest-spray_)
+- Find the right time and environment to talk; don't attack your stars in front of everyone unless you're doing it for a reason (_[https://wisden.com/stories/international-cricket/when-murali-gave-paul-farbrace-the-biggest-spray](https://wisden.com/stories/international-cricket/when-murali-gave-paul-farbrace-the-biggest-spray)_)
 - Defence is an attitude
 - Defence is a team sport
 - Process over product: focus on doing the job, not winning
@@ -47,14 +47,14 @@ Don't think in terms of player skill or experience; think in terms of the amount
 
 ## Hierarchy of Competence
 
-- Unconscious Competence | Right Intuition <== hey, this looks like you've trained your system-1 brain to do the right thing.
-- Conscious Competence | Right Analysis
-- Conscious Incompetence | Wrong Analysis
-- Unconscious Incompetence | Wrong Intuition
+- Unconscious Competence = Right Intuition <== hey, this looks like you've trained your system-1 brain to do the right thing.
+- Conscious Competence = Right Analysis
+- Conscious Incompetence = Wrong Analysis
+- Unconscious Incompetence = Wrong Intuition
 
 ## Cognitive Influences
 
-_A lot of this comes from various episodes of https://youarenotsosmart.com/podcast/_
+_A lot of this comes from various episodes of [https://youarenotsosmart.com/podcast/](https://youarenotsosmart.com/podcast/)_
 
 - Learned Helplessness  
   _"Failure risks teaching that something is impossible"_  
@@ -139,7 +139,7 @@ In a sporting context, concentration is focussing only on the events important t
 - Concentration takes energy so you need to be physically and nutritionally prepared, and you need to learn when to take breaks within a match
 - Anxiety is the enemy of concentration: it draws attention to itself and away from the game
 
-Some exercises that can help improve concentration (taken from _https://books.google.co.uk/books/about/Mental_Training_for_Peak_Performance.html?id=kxX3GAAACAAJ_) include the following.  In each exercise, you can make it more challenging by increasing the amount of external distractions:
+Some exercises that can help improve concentration (originally from _[https://books.google.co.uk/books/about/Mental_Training_for_Peak_Performance.html?id=kxX3GAAACAAJ](https://books.google.co.uk/books/about/Mental_Training_for_Peak_Performance.html?id=kxX3GAAACAAJ_) include the following.  In each exercise, you can make it more challenging by increasing the amount of external distractions:
 
 - Learning to shift your focus: close your eyes and label the individual sounds that you hear, then listen to all of the sounds in their entirety; label the physical sensations you feel and their location, then try to feel them all together; consider your thoughts and emotions, letting them just arise without prompt, then focus on each individually as they arise, before relaxing and letting them flow freely; open your eyes and focus on one specific thing on your field of view, then gradually widen your focus to take in everything in the room.
 - Learning to maintain your focus: Take a physical object from the game (like the ball) and hold it in your hands, focussing on how it feels; its shape, texture, weight, stability etc.  Then put the object down and focus on it.  When you can feel your concentration wandering, bring it back to the object.
