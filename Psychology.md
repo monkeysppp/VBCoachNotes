@@ -129,10 +129,24 @@ Anxiety manifests itself:
 
 The athlete's emotional state is something they can learn to use, so they can maintain being "in the zone" (athletes should not fear adrenaline - they feel nervous because the game is important to them).
 
-Consider the inverted-U plot of arousal-v-performance.  This is most correlated with positive emotional energy.  Where this inverted-U sits is also unique to each individual athlete.  Athletes first need to be aware of their emotional state, then correlate that state with good performances.  This can be formalised by rating confidence/motivation/relaxation/control/energy/self-talk/concentration/enjoyment for various performances and correlated with how successful those performances were.  They can also be considered at different phases of a performance (like in the deciding set of a match)
+Consider the inverted-U plot of arousal-v-performance.  This is most correlated with positive emotional energy.  Where this inverted-U sits is also unique to each individual athlete.  Athletes first need to be aware of their emotional state, then correlate that state with good performances.  This can be formalised by rating confidence/motivation/relaxation/control/energy/self-talk/concentration/enjoyment for various performances and correlated with how successful those performances were.  They can also be considered at different phases of a performance (like at the start of  a match versus the deciding set).
 
 ### Concentration
 
+In a sporting context, concentration is focussing only on the events important to the match and maintaining that across the match.  What to concentrate on is specific to the tasks and responsibilities that you are to carry out.  What you don't concentrate on is just as important; forget your past mistakes and ignore external distractions.
+
+- Concentration is a skill and should be practiced at every opportunity; no match is "not important enough" to fail to concentrate on, but some may require explicit self-motivation
+- Concentration takes energy so you need to be physically and nutritionally prepared, and you need to learn when to take breaks within a match
+- Anxiety is the enemy of concentration: it draws attention to itself and away from the game
+
+Some exercises that can help improve concentration (taken from _https://books.google.co.uk/books/about/Mental_Training_for_Peak_Performance.html?id=kxX3GAAACAAJ_) include the following.  In each exercise, you can make it more challenging by increasing the amount of external distractions:
+
+- Learning to shift your focus: close your eyes and label the individual sounds that you hear, then listen to all of the sounds in their entirety; label the physical sensations you feel and their location, then try to feel them all together; consider your thoughts and emotions, letting them just arise without prompt, then focus on each individually as they arise, before relaxing and letting them flow freely; open your eyes and focus on one specific thing on your field of view, then gradually widen your focus to take in everything in the room.
+- Learning to maintain your focus: Take a physical object from the game (like the ball) and hold it in your hands, focussing on how it feels; its shape, texture, weight, stability etc.  Then put the object down and focus on it.  When you can feel your concentration wandering, bring it back to the object.
+- Learning to find cues with the "grid exercise":  Write all the 2-digit numbers randomly arranged in a 10x10 grid, pick a starting number, then give yourself 60 seconds to hunt for each consecutive number.  
+- Rehearsal: visualise an upcoming match, focussing on each individual event in sequence.
+
+Other tips are to learn to use trigger words to restore focus, and to establish routines.
 
 ## Mental Strengths
 
