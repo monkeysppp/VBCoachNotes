@@ -17,6 +17,7 @@
 - [Serve Receive](./ServeReceive.md)
 - [Defence](./Defence.md)
 - [Attacking](./Attacking.md)
+- [Hitting](./Hitting.md)
 - [Miscellaneous](./Miscellaneous.md)
 - [Psychology](./Psychology.md)
 - [Matchplay](./Matchplay.md)

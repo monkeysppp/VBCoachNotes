@@ -124,7 +124,6 @@ Anxiety manifests itself:
   - If the athlete can spot a negative thought early, they can use a trigger phrase or action to stop that thought and focus on moving on (Joe Root finds smiling works wonders)
   - Slow down!
 
-
 #### Emotional state
 
 The athlete's emotional state is something they can learn to use, so they can maintain being "in the zone" (athletes should not fear adrenaline - they feel nervous because the game is important to them).
@@ -167,7 +166,7 @@ A player's mental strength is made up of many attributes:
 ## Mental Strength Drills
 
 - Competitive:
-  - Play a set from 18-18.  The side that wins starts the nest set 16-18 down, so have to work harder to keep winning
+  - Play a set from 18-18.  The side that wins starts the next set 16-18 down, so have to work harder to keep winning
 - Resilience:
   - A hitter must hit 5 clean hits in a row, a fault resets the count.  How do they handle failure?
 - Focus:
@@ -176,5 +175,5 @@ A player's mental strength is made up of many attributes:
   - Play a match where one player scores 5 points if they kill the ball, so they have confidence of reward for success.  Limit the time they are the special player, so they learn that they are special during specific phases of a match
   - Improve low confidence by working on core skills and a clear definition of the player's role and goals in the team
 - General:
-  - 5-3: Play a match, but the receiving team must score 5 points before the serving team score 1
+  - 5-3: Play a match, but the receiving team must score 5 points before the serving team score 3
   - 5-3+: Play a match as in 5-3, but when the receiving team score 5, they _must_ win the next point or the serving team win
