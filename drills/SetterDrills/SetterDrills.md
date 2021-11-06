@@ -249,6 +249,24 @@ Adaptations can be: one ball is passed; change direction
 
 ---
 
+### Setter Fatigue
+
+_AVCA Video Tip of the Week: Setter Fatigue Drill with Mike Sealy [https://www.youtube.com/watch?v=dnluqw3vghU](https://www.youtube.com/watch?v=dnluqw3vghU)_
+
+`stamina`, `control under pressure`
+
+<img alt="25 clean hits and setter keeps going" width="300" src="./images/Setter-Fatigue-1.png" align="left" style="border: solid 1px #eeeeee; margin: 0px 30px 0px 0px;" />
+
+<ul style="margin-left: 300px">
+  <li>Setter has hitters through 2 and 4</li>
+  <li>Coach feeds balls at a fast pace (next is before the ball is hit) and the setter alternates in front and behind.  The feed can challenge the setter</li>
+  <li>Hitters have to hit a clean ball (has to be a hit, and has to clear the net and land in), then collect their ball.  You can give targets as well</li>
+  <li>The drill continues until the hitters have hit 25 clean in total</li>
+</ul>
+
+<br clear="left"/>
+
+---
 ### Chinese Setter Warmup
 
 _Volleyball England "Setting Session" 2016 [https://vimeo.com/170591134](https://vimeo.com/170591134), used by China ladies team at London 2012_
