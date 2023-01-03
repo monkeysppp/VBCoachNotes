@@ -10,7 +10,7 @@ to hit a ball that comes from their right), and the rules place restrictions on 
 the rotation system; this is why rotations exist.
 
 The rotation system you use must be suitable for the players in the team.  My aim is to get players to run a 5-1 system, but there's nothing wrong with running a system where
-you play the position you're in  and the setter is at set at 3, if that's what is suitable for the players and the environment your playing in.
+you play the position you're in  and the setter is at 3, if that's what is suitable for the players and the environment your playing in.
 
 ## Running a 5-1 rotation
 
