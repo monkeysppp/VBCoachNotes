@@ -104,7 +104,7 @@ _Saffi Mant, Solent training_
 <ul style="margin-left: 300px">
   <li>The feeder slaps a ball and the player has to back track fast</li>
   <li>The feeder then plays an attack ball, and the passer has to stop and be on their toes at the point the feeder contacts the ball</li>
-  <li>The passer has to pass back tot he feeder</li>
+  <li>The passer has to pass back to the feeder</li>
 </ul>
 
 <br clear="left"/>

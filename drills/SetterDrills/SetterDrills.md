@@ -289,3 +289,14 @@ The ball stays in flight throughout the drill with 3 setters working (note that 
 Adaptations can include S<sub>3</sub> running in to cover a tip/attack from S<sub>4</sub> (with S<sub>4</sub> then playing to S<sub>1</sub>) before running back to become S<sub>2</sub>
 
 ---
+
+## Simple skill drills
+
+[Epic Volleyball - Best Setter Volleyball Trainings](https://www.youtube.com/watch?v=_dm1Zb2vZ28)
+
+- Build strength using push-ups on your fingers
+- quick-bouncing the ball into a hard surface like a wall or the floor.  you can do this with one hand (usually the right) as well to build strength for one-hand setting
+- Volley to yourself while walking forwards one step at a time, then walking backwards
+- Volley to yourself while lying down, then transition to standing up
+- Volleying to the wall while sat down.  You can then lift a leg so you're volleying round it, then switch legs
+- Volley against the wall while kneeling on a gym ball
